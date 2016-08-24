@@ -21,5 +21,7 @@ Source: [Understanding Military Strategy and the Four Levels of War](http://www.
 ## Tactical Level
 > "The tactical level of warfare is that level where men meet and fight from the individual level through the division. It is the realm of skirmishes, engagements, and battles. Planning at the tactical level starts at 'now' and occurs out to roughly 48 hours in the future, or at most a few weeks. The tactical level of warfare is where one sees the face of battle." 
 
+Source: [Understanding Military Strategy and the Four Levels of War](http://www.esquire.com/news-politics/politics/news/a39985/four-levels-of-war/)
+
 ## Further Reading
 [Understanding Military Strategy and the Four Levels of War](http://www.esquire.com/news-politics/politics/news/a39985/four-levels-of-war/)
