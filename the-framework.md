@@ -1,5 +1,7 @@
 # THE FRAMEWORK
 
+*Go directly to [the transformation strategy](https://github.com/LarsBarkman/guardian/blob/master/transformation-strategy.md)*
+
 | [LEVELS](https://github.com/LarsBarkman/guardian/blob/master/levels.md)  | CULTURE  | [BOUNDED CONTEXT](https://github.com/LarsBarkman/guardian/blob/master/bounded-context.md)  | SOFTWARE ARCHITECTURE  | USE, BUY OR BUILD  | SHIP  | RUN  | CHANGE  |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | ***POLITICAL***  | Influence Legislators and Constituents  | Customer Value-chain  | Time to Customer Value  | Cooperation  | N/A  | N/A | N/A |
