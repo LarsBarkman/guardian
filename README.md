@@ -30,3 +30,5 @@ Source: [Merriam-Webster](http://www.merriam-webster.com/)
 > Digital transformation affects both individual businesses and whole segments of the society, such as government, mass communications, art, medicine and science.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Digital_transformation)
+
+*Go to [the framework](https://github.com/LarsBarkman/guardian/blob/master/the-framework.md)*
