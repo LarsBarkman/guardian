@@ -9,7 +9,7 @@
 Source: [Urban Dictionary](http://www.urbandictionary.com/define.php?term=Opinionated)
 
 ## Inductive
-> Inductive reasoning (as opposed to deductive reasoning or abductive reasoning) is reasoning in which the premises are viewed as supplying strong evidence for the truth of the conclusion. While the conclusion of a deductive argument is certain, the truth of the conclusion of an inductive argument is probable, based upon the evidence given.
+> **Inductive** reasoning (as opposed to deductive reasoning or abductive reasoning) is reasoning in which the premises are viewed as supplying strong evidence for the truth of the conclusion. While the conclusion of a deductive argument is certain, the truth of the conclusion of an inductive argument is probable, based upon the evidence given.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Inductive_reasoning)
 
@@ -21,7 +21,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Inductive_reasoning)
 Source: [Merriam-Webster](http://www.merriam-webster.com/)
 
 ## Digital Transformation
-> Digital transformation is the changes associated with the application of digital technology in all aspects of human society. Digital transformation may be thought of as the third stage of embracing digital technologies: digital competence → digital usage → digital transformation, with usage and transformative ability informing digital literacy. The transformation stage means that digital usages inherently enable new types of innovation and creativity in a particular domain, rather than simply enhance and support the traditional methods.
+> **Digital transformation** is the changes associated with the application of digital technology in all aspects of human society. Digital transformation may be thought of as the third stage of embracing digital technologies: digital competence → digital usage → digital transformation, with usage and transformative ability informing digital literacy. The transformation stage means that digital usages inherently enable new types of innovation and creativity in a particular domain, rather than simply enhance and support the traditional methods.
 
 > In a narrower sense, "digital transformations " may refer to the concept of "going paperless".
 
