@@ -1,4 +1,4 @@
-# GUARDIAN of the digital transformation
+# GUARDIAN (of the digital transformation)
 **An Opinionated Inductive Guidance Framework for Digital Transformation**
 
 ## Opinionated
