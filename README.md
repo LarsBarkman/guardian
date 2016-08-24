@@ -1,5 +1,5 @@
 # GUARDIAN
-An Opinionated Inductive Guidance Framework for Digital Transformation
+**An Opinionated Inductive Guidance Framework for Digital Transformation**
 
 ## Opinionated
 ## Inductive
