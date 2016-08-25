@@ -31,4 +31,4 @@ Source: [Merriam-Webster](http://www.merriam-webster.com/)
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Digital_transformation)
 
-*Go to [The Framework](https://github.com/LarsBarkman/guardian/blob/master/the-framework.md)*
+*Show me [The Framework](https://github.com/LarsBarkman/guardian/blob/master/the-framework.md)*
