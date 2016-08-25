@@ -1,12 +1,12 @@
 # GUARDIAN (of the digital transformation)
 **An Opinionated Inductive Guidance Framework for Digital Transformation**
 
-*Go directly to [The Vision](https://github.com/LarsBarkman/guardian/blob/master/the-vision.md)*
+*Go directly to [the framework](https://github.com/LarsBarkman/guardian/blob/master/the-framework.md)*
 
 ## Opinionated
-> Someone who isn't afraid to give their personal opinion. It doesn't have to be a bad thing. It's just someone that doesn't stay quiet, if they don't agree with something. 
+> Someone who isn't afraid to give their personal opinion. It doesn't have to be a bad thing. It's just someone that doesn't stay quiet, if they don't agree with something.
 
-> The only people who see it as bad and attach stigma (like the other definitions) to it are those that don't like to hear opinionated people talk. 
+> The only people who see it as bad and attach stigma (like the other definitions) to it are those that don't like to hear opinionated people talk.
 
 Source: [Urban Dictionary](http://www.urbandictionary.com/define.php?term=Opinionated)
 
@@ -31,4 +31,4 @@ Source: [Merriam-Webster](http://www.merriam-webster.com/)
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Digital_transformation)
 
-*Go to [The Vision](https://github.com/LarsBarkman/guardian/blob/master/the-vision.md)*
+*Go to [the framework](https://github.com/LarsBarkman/guardian/blob/master/the-framework.md)*
