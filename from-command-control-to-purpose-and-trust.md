@@ -24,7 +24,7 @@
 * Takes calculated risks
 * Is comfortable with failure
 
-Source: [Innovationmanagement](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
+Source: [Innovation management](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
  
 ## Motivation behind the choice
  
