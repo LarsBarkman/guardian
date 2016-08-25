@@ -19,7 +19,8 @@ Source: [culttt.com](http://culttt.com/2014/11/19/bounded-contexts-context-maps-
 
 >Firstly you can model the aspects of the problem without having to be concerned with other parts of the business. Using the example from earlier, a Product object within the stock system only needs to be concerned with the methods and properties of that single system, rather than any other business concern that happens to fit on an object called Product.
 
->Secondly the terminology within a Bounded Context can have single, clear definition that accurately describe the problem at hand. Different departments across a company will usually have slightly different ideas and definitions of similar terms, but this can often derail a project through a lack of clarity and understanding when terms are mixed.
+>Secondly the terminology within a Bounded Context can have single, clear definition that accurately describe the problem at hand. Different departments across a company will usually have slightly different ideas and defin
+itions of similar terms, but this can often derail a project through a lack of clarity and understanding when terms are mixed.
 
 Source: [culttt.com](http://culttt.com/2014/11/19/bounded-contexts-context-maps-domain-driven-design/)
 
