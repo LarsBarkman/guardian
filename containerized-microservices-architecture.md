@@ -21,6 +21,7 @@ Source: [What are containers and why do you need them?](http://www.cio.com/artic
 
 ## Motivation behind the choice
 * Microservices offer the flexibility that is needed for Continuous Improvement
+* Containers offer a great mix of flexibility, control and easy deployment
 
 ## Alternatives that could have been chosen, but was not
 * Service-based Architecture instead of Microservices
