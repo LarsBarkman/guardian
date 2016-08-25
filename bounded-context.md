@@ -1,7 +1,7 @@
 # BOUNDED CONTEXT
 > Bounded Context is a central pattern in [Domain-Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design). It is the focus of DDD's strategic design section which is all about dealing with large models and teams. DDD deals with large models by dividing them into different Bounded Contexts and being explicit about their interrelationships.
 
-Source: [BoundedContext](http://martinfowler.com/bliki/BoundedContext.html)
+Source: [MARTINFOWLER.COM](http://martinfowler.com/bliki/BoundedContext.html)
 
 ## What is the Domain Model?
 > The Domain Model is the structured knowledge that is related to a specific problem. The Domain Model itself could be code, written prose or a diagram, the medium itself is not really important.
@@ -10,7 +10,7 @@ Source: [BoundedContext](http://martinfowler.com/bliki/BoundedContext.html)
 
 > This means that the Domain Model will have it’s own internal language that represents the important things that are specific to that one problem.
 
-Source: [What are Bounded Contexts and Context Maps in Domain Driven Design?](http://culttt.com/2014/11/19/bounded-contexts-context-maps-domain-driven-design/)
+Source: [Culttt.com](http://culttt.com/2014/11/19/bounded-contexts-context-maps-domain-driven-design/)
 
 ## What is a Bounded Context?
 > A Bounded Context is the boundary that surrounds a particular model. This keeps the knowledge inside the boundary consistent whilst ignoring the noise from the outside world.
@@ -21,7 +21,7 @@ Source: [What are Bounded Contexts and Context Maps in Domain Driven Design?](ht
 
 >Secondly the terminology within a Bounded Context can have single, clear definition that accurately describe the problem at hand. Different departments across a company will usually have slightly different ideas and definitions of similar terms, but this can often derail a project through a lack of clarity and understanding when terms are mixed.
 
-Source: [What are Bounded Contexts and Context Maps in Domain Driven Design?](http://culttt.com/2014/11/19/bounded-contexts-context-maps-domain-driven-design/)
+Source: [Culttt.com](http://culttt.com/2014/11/19/bounded-contexts-context-maps-domain-driven-design/)
 
 ## What is a Context Map?
 > When you start to think about the various subsystems of an application as individual Bounded Contexts, you can lose sight of the global view of the business as a whole.
@@ -30,13 +30,13 @@ Source: [What are Bounded Contexts and Context Maps in Domain Driven Design?](ht
 
 > A Context Map is the global view of the application as a whole. Each Bounded Context fits within the Context Map to show how they should communicate amongst each other and how data should be shared.
 
-Source: [What are Bounded Contexts and Context Maps in Domain Driven Design?](http://culttt.com/2014/11/19/bounded-contexts-context-maps-domain-driven-design/)
+Source: [Culttt.com](http://culttt.com/2014/11/19/bounded-contexts-context-maps-domain-driven-design/)
 
 
 ## The Framework
 | POLITICAL  | STRATEGIC | OPERATIONAL  | TACTICAL
 |:-:|:-:|:-:|:-:|
-| Customer Value-chain  |Business Capabilities And Information| Microservices| Business Services
+| Customer Value-chain  |Business Capabilities And Information| Business Services | Microservices
 
 ## Further Reading
 * [What are Bounded Contexts and Context Maps in Domain Driven Design?](http://culttt.com/2014/11/19/bounded-contexts-context-maps-domain-driven-design/)
