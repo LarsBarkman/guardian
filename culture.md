@@ -7,5 +7,6 @@ Source: [Organizational culture](https://en.wikipedia.org/wiki/Organizational_cu
 | POLITICAL  | STRATEGIC | OPERATIONAL  | TACTICAL
 |:-:|:-:|:-:|:-:|
 | Influence Legislators and Constituents  |From Command & Control To Purpose And Trust|Autonomy, Mastery And Purpose|Radical Agility
+
 ## Further Reading
 [TODO]
