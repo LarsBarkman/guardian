@@ -32,6 +32,12 @@ Source: [What are Bounded Contexts and Context Maps in Domain Driven Design?](ht
 
 Source: [What are Bounded Contexts and Context Maps in Domain Driven Design?](http://culttt.com/2014/11/19/bounded-contexts-context-maps-domain-driven-design/)
 
+
+## The Vision
+| POLITICAL  | STRATEGIC | OPERATIONAL  | TACTICAL
+|:-:|:-:|:-:|:-:|
+| Customer Value-chain  |Business Capabilities And Information| Microservices| Business Services
+
 ## Further Reading
 * [What are Bounded Contexts and Context Maps in Domain Driven Design?](http://culttt.com/2014/11/19/bounded-contexts-context-maps-domain-driven-design/)
 * [BoundedContext](http://martinfowler.com/bliki/BoundedContext.html)
