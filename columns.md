@@ -1,8 +1,8 @@
 # COLUMNS
 
-## LEVELS
+## ***LEVELS***
 See [levels](levels.md).
-## CULTURE
+## ***CULTURE***
 **Organizational culture** encompasses values and behaviors that "contribute to the unique social and psychological environment of an organization." According to Needle (2004), organizational culture represents the collective values, beliefs and principles of organizational members and is a product of such factors as history, product, market, technology, strategy, type of employees, management style, and national culture; culture includes the organization's vision, values, norms, systems, symbols, language, assumptions, beliefs, and habits.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Organizational_culture)
@@ -10,7 +10,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Organizational_culture)
 ### Further Reading
 * [Organizational culture](https://en.wikipedia.org/wiki/Organizational_culture)
 
-## BOUNDED CONTEXT
+## ***BOUNDED CONTEXT***
 > Bounded Context is a central pattern in [Domain-Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design). It is the focus of DDD's strategic design section which is all about dealing with large models and teams. DDD deals with large models by dividing them into different Bounded Contexts and being explicit about their interrelationships.
 
 Source: [martinfowler.com](http://martinfowler.com/bliki/BoundedContext.html)
@@ -50,15 +50,15 @@ Source: [culttt.com](http://culttt.com/2014/11/19/bounded-contexts-context-maps-
 * [BoundedContext](http://martinfowler.com/bliki/BoundedContext.html)
 * [What is the Domain Model in Domain Driven Design?](http://culttt.com/2014/11/12/domain-model-domain-driven-design)
 
-## SOFTWARE ARCHITECTURE
+## ***SOFTWARE ARCHITECTURE***
 * When transitioning to "Cloud-only", everything becomes code, even infrastructure ([Infrastructure as Code](http://martinfowler.com/bliki/InfrastructureAsCode.html))
 * When everything becomes code, it's part of the software architecture
 * When everything becomes code, the same rules applys to all
 
-## USE, BUY OR BUILD
+## ***USE, BUY OR BUILD***
 Coming soon
 
-## SHIP
+## ***SHIP***
 **Ship** (Software deployment) is all of the activities that make a software system available for use.
 
 In continuous delivery, we introduce two new architectural attributes: testability and deployability.
@@ -72,7 +72,7 @@ Source: [Continuousdelivery.com](https://continuousdelivery.com/implementing/arc
 ### Further Reading
 [Continuousdelivery.com](https://continuousdelivery.com/implementing/architecture/)
 
-## RUN
+## ***RUN***
 Coming soon
-## CHANGE
+## ***CHANGE***
 Coming soon
