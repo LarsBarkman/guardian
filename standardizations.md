@@ -59,9 +59,9 @@ Apache Kafka is publish-subscribe messaging rethought as a distributed commit lo
 #### INTERMEDIATE DATA FORMAT: [APACHE AVRO](https://avro.apache.org/docs/current/)
 Apache Avro™ is a data serialization system.
 Avro provides:
-* Rich data structures.
-* A compact, fast, binary data format.
-* A container file, to store persistent data.
+* Rich data structures
+* A compact, fast, binary data format
+* A container file, to store persistent data
 
 
 ## VERSIONING
