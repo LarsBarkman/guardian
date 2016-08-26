@@ -11,8 +11,11 @@ In a deployable architecture, deployments of a particular product or service can
 
 Source: [Continuousdelivery.com](https://continuousdelivery.com/implementing/architecture/)
 
-
+## The Framework
+| POLITICAL  | STRATEGIC | OPERATIONAL  | TACTICAL
+|:-:|:-:|:-:|:-:|
+| N/A | Created And Proven By Doing | “Optimize For Speed, Not Efficiency” | Continuous Deployment
  
 ## Further Reading
 
-[Continuousdelivery.com](https://continuousdelivery.com/implementing/architecture/)ckedit.io/).
+[Continuousdelivery.com](https://continuousdelivery.com/implementing/architecture/)
