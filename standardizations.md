@@ -88,3 +88,6 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 > Algolia claim a number of advantages for their approach, including speed of response from searching a single site rather than the entire web Moreover, as Algolia's search can be tailored to the client site, its known structure and its metadata facets, the search offered can be smarter and more site-specific than a generalised web text search. This improves the relevance of search results as searching may take the semantics of site content into account. A web site selling both puppies and dog clutches could avoid the search confusions and homonymy that bedevil the simple text-based search approaches.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Algolia)
+
+## SECURITY
+### [OWASP](https://www.owasp.org)
