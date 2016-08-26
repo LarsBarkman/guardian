@@ -90,4 +90,6 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Algolia)
 
 ## SECURITY
-### [OWASP](https://www.owasp.org) - Level
+### [OWASP](https://www.owasp.org) - The Open Web Application Security Project
+
+>>>>>>> Security update
