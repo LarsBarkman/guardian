@@ -90,6 +90,7 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Algolia)
 
 ## SECURITY
-### [OWASP](https://www.owasp.org) - The Open Web Application Security Project
+### [OWASP](https://www.owasp.org)
+> The Open Web Application Security Project (OWASP) is an online community which creates freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
 
->>>>>>> Security update
+Source: [Wikipedia](https://en.wikipedia.org/wiki/OWASP)
