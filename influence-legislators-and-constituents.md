@@ -1,5 +1,5 @@
 
-# Ifluence legislators and constituents
+#Influence legislators and constituents
 ## Context
 Digitaliseringen innebär att det krävs nya sätt att tänka kring och formulera sig i lagstiftning och regler för olika sorters verksamheter. Det är även av stor vikt att arbetet sker proaktivt, kontinuerligt och flexibelt. De mängder av data i realtid som digitaliseringen alstrar ger möjlighet att förstå och hantera komplicerade och komplexa
 fenomen. Genom att bygga modeller för analys- och beslutsstödkan de positiva effekter som denna nya form av kunskapsuppbyggande genererar användas till stöd för ökad
