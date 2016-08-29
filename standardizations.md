@@ -59,9 +59,9 @@ Apache Kafka is publish-subscribe messaging rethought as a distributed commit lo
 #### INTERMEDIATE DATA FORMAT: [APACHE AVRO](https://avro.apache.org/docs/current/)
 Apache Avro™ is a data serialization system.
 Avro provides:
-* Rich data structures.
-* A compact, fast, binary data format.
-* A container file, to store persistent data.
+* Rich data structures
+* A compact, fast, binary data format
+* A container file, to store persistent data
 
 
 ## VERSIONING
@@ -74,7 +74,7 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 * PATCH version when you make backwards-compatible bug fixes.
 
 ## ACCESSIBILITY
-#### [WEB CONTENT ACCESSIBILITY GUIDELINES (WCAG) 2.0](https://www.w3.org/TR/WCAG20/)
+#### [WEB CONTENT ACCESSIBILITY GUIDELINES (WCAG) 2.0](https://www.w3.org/TR/WCAG20/) - Level AA
 > Web Content Accessibility Guidelines (WCAG) 2.0 covers a wide range of recommendations for making Web content more accessible. Following these guidelines will make content accessible to a wider range of people with disabilities, including blindness and low vision, deafness and hearing loss, learning disabilities, cognitive limitations, limited movement, speech disabilities, photosensitivity and combinations of these. Following these guidelines will also often make your Web content more usable to users in general.
 
 ## SEARCH
@@ -88,3 +88,9 @@ Given a version number MAJOR.MINOR.PATCH, increment the:
 > Algolia claim a number of advantages for their approach, including speed of response from searching a single site rather than the entire web Moreover, as Algolia's search can be tailored to the client site, its known structure and its metadata facets, the search offered can be smarter and more site-specific than a generalised web text search. This improves the relevance of search results as searching may take the semantics of site content into account. A web site selling both puppies and dog clutches could avoid the search confusions and homonymy that bedevil the simple text-based search approaches.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Algolia)
+
+## SECURITY
+### [OWASP](https://www.owasp.org)
+> The Open Web Application Security Project (OWASP) is an online community which creates freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/OWASP)
