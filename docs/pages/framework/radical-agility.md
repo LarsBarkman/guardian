@@ -1,4 +1,9 @@
-# Radical Agility
+---
+title: Radical Agility
+keywords: Radical Agility
+sidebar: framework_sidebar
+permalink: radical-agility.html
+---
 
 ## Context
 > You may have heard about our cutting-edge approach to the way we work at Zalando Tech – it’s called Radical Agility.

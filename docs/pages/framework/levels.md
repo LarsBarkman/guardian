@@ -1,4 +1,11 @@
-# LEVELS
+---
+title: Levels in The Framework
+keywords: Levels
+sidebar: framework_sidebar
+permalink: levels.html
+summary: An explanation of the different levels in The Framework
+---
+
 > There are four levels of warfare. These are the Political, Strategic, Operational, and Tactical levels of war. I will use examples from World War II in order to level the playing field and convey these ideas in their most basic (and least confused) form. For our purposes, we will only address three in detail: the tactical level, the operational level, and the strategic level. I believe that the "Political" level is self-evident, but for clarity I will address it briefly. It is perhaps the most important, because decisions at the political level have the ability to directly or indirectly affect the other three.
 
 Source: [esquire.com](http://www.esquire.com/news-politics/politics/news/a39985/four-levels-of-war/)

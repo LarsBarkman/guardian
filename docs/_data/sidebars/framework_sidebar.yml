@@ -29,7 +29,19 @@ entries:
       type: homepage
 
     - title: The Matrix
-      url: /framework_introduction.html
+      url: /matrix.html
+      output: web, pdf
+
+    - title: Explaining The Acronym "GUARDIAN"
+      url: /acronym.html
+      output: web, pdf
+
+    - title: Levels in The Framework
+      url: /levels.html
+      output: web, pdf
+
+    - title: Columns in The Framework
+      url: /columns.html
       output: web, pdf
 
   - title: Culture

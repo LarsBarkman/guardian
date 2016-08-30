@@ -1,4 +1,10 @@
-# COLUMNS
+---
+title: Columns in The Framework
+keywords: Columns
+sidebar: framework_sidebar
+permalink: columns.html
+summary: An explanation of the different columns in The Framework
+---
 
 ## ***LEVELS***
 See [levels](levels.md).

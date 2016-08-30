@@ -1,38 +1,24 @@
 ---
-title: Welcome to GUARDIAN
-keywords: Guidance Framework Digital Transformation
-tags: [getting_started]
+title: The Matrix
+keywords: Matrix
 sidebar: framework_sidebar
-permalink: index.html
-summary: GUARDIAN - An Opinionated Inductive Guidance Framework for Digital Transformation.
+permalink: matrix.html
+summary: A complete overview of all areas of The Framework in the form of a matrix.
 ---
 
-## Opinionated
-> Someone who isn't afraid to give their personal opinion. It doesn't have to be a bad thing. It's just someone that doesn't stay quiet, if they don't agree with something.
+## Overview
+Find out the meaning and ideas behind the [levels](levels.html) and [columns](columns.html).
 
-> The only people who see it as bad and attach stigma (like the other definitions) to it are those that don't like to hear opinionated people talk.
+| LEVELS  | CULTURE  | BOUNDED CONTEXT  | SOFTWARE ARCHITECTURE  | USE, BUY OR BUILD  | SHIP  | [RUN  | CHANGE  |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| ***POLITICAL***  | [Influence Legislators and Constituents](influence-legislators-and-constituents.md)  | [Customer Value-chain](customer-value-chain.md)  | N/A  | [Cooperation](cooperation.md)  | [Time to Customer Value](time-to-customer-value.md)  | N/A | N/A |
+| ***STRATEGIC***  | [From Command & Control To Purpose And Trust](from-command-control-to-purpose-and-trust.md)  | [Business Capabilities And Information](business-capabilities-and-information.md)  | [Evolutionary Architecture](evolutionary-architecture.md)  | [”Don’t Build, What Can Be Used Or Bought”](dont-build-what-can-be-used-or-bought.md)  | [Created And Proven By Doing](created-and-proven-by-doing.md)  | [Cloud-only](cloud-only.md)  | [Continuous Improvement](continuous-improvement.md)  |
+| ***OPERATIONAL***  | [Autonomy, Mastery And Purpose](autonomy-mastery-and-purpose.md)  | [Business Services](business-services.md)  | [Containerized Microservices Architecture](containerized-microservices-architecture.md)  | [Respect The Bounded Context](respect-the-bounded-context.md)  | [“Optimize For Speed, Not Efficiency](optimize-for-speed-not-efficiency.md)”  | [CaaS-only](caas-only.md)  | [Fly By Instruments](fly-by-instruments.md)  |
+| ***TACTICAL***  | [Radical Agility](radical-agility.md)  | [Microservices](microservices.md)  | [Quotes](quotes.md), [Laws](laws.md), [Principles](principles.md), [Patterns](patterns.md) And [Standardizations](standardizations.md)  | [When And How To Use, Buy Or Build](when-and-how-to-use-buy-or-build.md)  | [Continuous Deployment](continuous-deployment.md)  | [“You Build It, You Run It.”](you-build-it-you-run-it.md)  | [Collect And Use Customer Metrics And Telemetry](collect-and-use-customer-metrics-and-telemetry.md)  |
 
-Source: [Urban Dictionary](http://www.urbandictionary.com/define.php?term=Opinionated)
+## Known [anti-patterns](http://martinfowler.com/bliki/AntiPattern.html)
+* [Traditional Digital Strategy](https://www.thoughtworks.com/insights/blog/digital-strategy-dead)
+* [Architecture as a Recipe](http://doveltech.com/innovation/the-beginning-of-the-end-for-enterprise-architecture-frameworks/)
 
-## Inductive
-> **Inductive** reasoning (as opposed to deductive reasoning or abductive reasoning) is reasoning in which the premises are viewed as supplying strong evidence for the truth of the conclusion. While the conclusion of a deductive argument is certain, the truth of the conclusion of an inductive argument is probable, based upon the evidence given.
-
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Inductive_reasoning)
-
-## Guidance Framework
-> **Guidance**: help or advice that tells you what to do : the act or process of guiding someone or something
-
-> **Framework**: the basic structure of something : a set of ideas or facts that provide support for something
-
-Source: [Merriam-Webster](http://www.merriam-webster.com/)
-
-## Digital Transformation
-> **Digital transformation** is the changes associated with the application of digital technology in all aspects of human society. Digital transformation may be thought of as the third stage of embracing digital technologies: digital competence → digital usage → digital transformation, with usage and transformative ability informing digital literacy. The transformation stage means that digital usages inherently enable new types of innovation and creativity in a particular domain, rather than simply enhance and support the traditional methods.
-
-> In a narrower sense, "digital transformations " may refer to the concept of "going paperless".
-
-> Digital transformation affects both individual businesses and whole segments of the society, such as government, mass communications, art, medicine and science.
-
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Digital_transformation)
 
 {% include links.html %}

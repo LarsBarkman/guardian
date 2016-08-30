@@ -3,6 +3,7 @@
 title: From Command & Control To Purpose And Trust
 keywords: Command Control Purpose Trust
 sidebar: framework_sidebar
+permalink: from-command-control-to-purpose-and-trust.html
 ---
 ## Context
 > Let’s contrast two extremes of leadership style that I have designated as the command and control leader and the innovative leader.  The command and control leader is goal-oriented, authoritative and decisive. He or she is well suited to a structured regime with clear tasks. The innovative leader, on the other hand, is better suited to an ambiguous or fluid situation. He or she is much more focused on creativity, innovation and helping the team to find new ways forward.
