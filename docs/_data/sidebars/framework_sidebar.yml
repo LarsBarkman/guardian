@@ -32,7 +32,7 @@ entries:
       url: /matrix.html
       output: web, pdf
 
-    - title: Explaining The Acronym "GUARDIAN"
+    - title: Explaining The Acronym
       url: /acronym.html
       output: web, pdf
 

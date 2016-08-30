@@ -7,8 +7,6 @@ toc: true
 summary:
 ---
 
-# CONTINUOUS IMPROVEMENT
-
 ## Context
 > Continuous improvement is a method for identifying opportunities for streamlining work and reducing waste. The practice was formalized by the popularity of Lean / Agile / Kaizen in manufacturing and business, and it is now being used by thousands of companies all over the world to identify savings opportunities. Many of these ideologies can be combined for excellent results. For example, Kaizen and Kanban can go hand-in-hand to facilitate continuous improvement.
 

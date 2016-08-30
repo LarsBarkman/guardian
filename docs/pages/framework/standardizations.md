@@ -7,7 +7,6 @@ toc: true
 summary:
 ---
 
-# STANDARDIZATIONS
 ## Standardize ONLY when
 * Deemed necessary for the sake of interoperability
 * There is clearly a "better way of doing it"

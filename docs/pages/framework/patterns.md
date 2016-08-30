@@ -6,7 +6,6 @@ permalink: patterns.html
 toc: true
 summary:
 ---
-# PATTERNS
 
 ## [MICROSERVICES PATTERNS](http://microservices.io/patterns/index.html)
 * [Database per service](http://microservices.io/patterns/data/database-per-service.html)

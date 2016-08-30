@@ -3,6 +3,7 @@ title: The Matrix
 keywords: Matrix
 sidebar: framework_sidebar
 permalink: matrix.html
+toc: false
 summary: A complete overview of all areas of The Framework in the form of a matrix.
 ---
 

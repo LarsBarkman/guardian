@@ -7,8 +7,6 @@ toc: true
 summary:
 ---
 
-# TIME TO CUSTOMER VALUE
-
 ## Context
 > Want to know perhaps the simplest, most powerful measure that aligns every customer-facing department with the customer? Time to Customer Value.
 

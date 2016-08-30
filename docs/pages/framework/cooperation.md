@@ -7,8 +7,6 @@ toc: true
 summary:
 ---
 
-# Cooperation
-
 ## Context
 Cooperation (sometimes written as cooperation or co-operation) is the process of groups of organisms working or acting together for common or mutual benefit, as opposed to working in competition for selfish benefit.
 
