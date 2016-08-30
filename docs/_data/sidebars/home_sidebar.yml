@@ -5,15 +5,15 @@ entries:
   levels: one
   folders:
 
-  - title: Areas
+  - title: Site Content
     output: web
     folderitems:
     - title: News
       url: /news.html
       output: web
-    - title: Framework
+    - title: The Framework
       url: /framework_introduction.html
       output: web
-    - title: Methodology
+    - title: The Methodology
       url: /methodology_landing_page.html
       output: web

@@ -3,8 +3,8 @@
 
 entries:
 - title: Sidebar
-  product: Methodology
-  version: X
+  product: The Methodology
+  version: 
   folders:
 
   - title:
@@ -27,7 +27,7 @@ entries:
       url: /methodology_landing_page.html
       output: web
 
-  - title: Another heading
+  - title: Creating Business Services
     output: web, pdf
     folderitems:
     - title: Sample 1

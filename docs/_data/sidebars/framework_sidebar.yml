@@ -2,8 +2,8 @@
 
 entries:
 - title: sidebar
-  product: Jekyll Doc Theme
-  version: 6.0
+  product: The Framework
+  version: 
   folders:
 
   - title:
@@ -23,28 +23,16 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: Welcome
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
-      url: /mydoc_introduction.html
+    - title: The Matrix
+      url: /framework_introduction.html
       output: web, pdf
 
-    - title: Supported features
-      url: /mydoc_supported_features.html
-      output: web, pdf
-
-    - title: About the theme author
-      url: /mydoc_about.html
-      output: web, pdf
-
-    - title: Support
-      url: /mydoc_support.html
-      output: web, pdf
-
-  - title: Release Notes
+  - title: Culture
     output: web, pdf
     folderitems:
 
@@ -56,7 +44,7 @@ entries:
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: Installation
+  - title: Bounded Context
     output: web, pdf
     folderitems:
 
@@ -72,7 +60,7 @@ entries:
       url: /mydoc_install_jekyll_on_windows.html
       output: web, pdf
 
-  - title: Authoring
+  - title: Software Architecture
     output: web, pdf
 
     folderitems:
@@ -108,7 +96,7 @@ entries:
       url: /mydoc_atom_text_editor.html
       output: web, pdf
 
-  - title: Navigation
+  - title: Use, Buy or Build
     output: web, pdf
 
     folderitems:
@@ -128,7 +116,7 @@ entries:
       url: /mydoc_series.html
       output: web, pdf
 
-  - title: Formatting
+  - title: Ship
     output: web, pdf
 
     folderitems:
@@ -176,7 +164,7 @@ entries:
       url: /mydoc_workflow_maps.html
       output: web, pdf
 
-  - title: Handling reviews
+  - title: Run
     output: web, pdf
 
     folderitems:
@@ -188,7 +176,7 @@ entries:
 #      url: /mydoc_git_collaboration
 #      output: web, pdf
 
-  - title: Publishing
+  - title: Change
     output: web, pdf
 
     folderitems:
@@ -227,77 +215,3 @@ entries:
     - title: Publishing on Github Pages
       url: /mydoc_publishing_github_pages.html
       output: web, pdf
-
-  - title: Special layouts
-    output: web, pdf
-
-    folderitems:
-    - title: Knowledge-base layout
-      url: /mydoc_kb_layout.html
-      output: web, pdf
-
-    - title: Glossary layout
-      url: /mydoc_glossary.html
-      output: web, pdf
-
-    - title: FAQ layout
-      url: /mydoc_faq_layout.html
-      output: web, pdf
-
-    - title: Scroll layout
-      url: /mydoc_scroll.html
-      output: web, pdf
-
-    - title: Shuffle layout
-      url: /mydoc_shuffle.html
-      output: web, pdf
-
-  - title: Troubleshooting
-    output: web, pdf
-
-    folderitems:
-
-    - title: Troubleshooting
-      url: /mydoc_troubleshooting.html
-      output: web, pdf
-
-  - title: Tag archives
-    output: web
-    folderitems:
-
-    - title: Tag archives overview
-      url: /mydoc_tag_archives_overview.html
-      output: web
-
-      subfolders:
-      - title: Tag archive pages
-        output: web
-        subfolderitems:
-
-        - title: Formatting pages
-          url: /tag_formatting.html
-          output: web
-
-        - title: Navigation pages
-          url: /tag_navigation.html
-          output: web
-
-        - title: Content types pages
-          url: /tag_content_types.html
-          output: web
-
-        - title: Publishing pages
-          url: /tag_publishing.html
-          output: web
-
-        - title: Special layout pages
-          url: /tag_special_layouts.html
-          output: web
-
-        - title: Collaboration pages
-          url: /tag_collaboration.html
-          output: web
-
-        - title: Troubleshooting pages
-          url: /tag_troubleshooting.html
-          output: web

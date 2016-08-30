@@ -1,8 +1,8 @@
 ---
-title: Introduction
+title: The Matrix
 sidebar: framework_sidebar
 permalink: framework_introduction.html
-folder: mydoc
+folder: framework
 ---
 
 ## Overview
