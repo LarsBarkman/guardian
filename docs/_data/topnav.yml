@@ -8,7 +8,7 @@ topnav_dropdowns:
     - title: Content
       folderitems:
         - title: The Framework
-          url: /framework_introduction.html
+          url: /index.html
         - title: The Methodology
           url: /methodology_landing_page.html
     - title: Resources
