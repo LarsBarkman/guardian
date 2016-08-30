@@ -12,7 +12,7 @@ entries:
       url: /news.html
       output: web
     - title: The Framework
-      url: /framework_introduction.html
+      url: /index.html
       output: web
     - title: The Methodology
       url: /methodology_landing_page.html

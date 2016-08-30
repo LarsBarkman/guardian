@@ -3,7 +3,7 @@
 entries:
 - title: sidebar
   product: The Framework
-  version: 
+  version:
   folders:
 
   - title:
@@ -36,12 +36,20 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
-      url: /mydoc_release_notes_60.html
+    - title: Influence Legislators and Constituents
+      url: /influence-legislators-and-constituents.html
       output: web, pdf
 
-    - title: 5.0 Release notes
-      url: /mydoc_release_notes_50.html
+    - title: From Command & Control To Purpose And Trust
+      url: /from-command-control-to-purpose-and-trust.html
+      output: web, pdf
+
+    - title: Autonomy, Mastery and Purpose
+      url: /autonomy-mastery-and-purpose.html
+      output: web, pdf
+
+    - title: Radical Agility
+      url: /radical-agility.html
       output: web, pdf
 
   - title: Bounded Context
