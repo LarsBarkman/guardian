@@ -8,7 +8,7 @@ To enable a simple, secure and privacy-preserving information over the operation
 Source: [Digitaliseringens transformerande kraft - Digitaliseringskommissionen (Swedish)](https://digitaliseringskommissionen.se/wp-content/uploads/2015/09/03-Digitaliseringens-transformerande-kraft_20150928.pdf)
 
 ## Motivation behind the choice
-
+Digitalisation will influence technology as well as rules and laws. Let´s be a part of it.
 
 ## Further Reading
 [Digitaliseringskomissionen](https://digitaliseringskommissionen.se/rapport/)
