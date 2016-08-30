@@ -28,10 +28,6 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: The Matrix
-      url: /matrix.html
-      output: web, pdf
-
     - title: Explaining The Acronym
       url: /acronym.html
       output: web, pdf
