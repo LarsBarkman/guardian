@@ -1,12 +1,10 @@
 ---
-title: Welcome to GUARDIAN
+title: Welcome to An Opinionated Inductive Guidance Framework for Digital Transformation (GUARDIAN)
 keywords:  GUARDIAN Guidance Framework Digital Transformation
 sidebar: framework_sidebar
 permalink: index.html
-summary: GUARDIAN - An Opinionated Inductive Guidance Framework for Digital Transformation.
+toc: false
 ---
-
-> Welcome to An Opinionated Inductive Guidance Framework for Digital Transformation.
 
 ## The framework shall
 * Give direction
