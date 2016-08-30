@@ -16,7 +16,13 @@ GUARDIAN is An Opinionated Inductive Guidance Framework for Digital Transformati
 * Not be overly prescriptive
 * Be constantly evolving
 
-## The Matrix
+## How do I navigate?
+* Use "Content" in the top menu to choose between The Framework and The Methodology
+* Use the table of contents on the left to access different areas
+* Use the Overview below for direct access to specific topic
+
+
+## Overview
 Find out the meaning and ideas behind the [levels](levels.html) and [columns](columns.html).
 
 | LEVELS  | CULTURE  | BOUNDED CONTEXT  | SOFTWARE ARCHITECTURE  | USE, BUY OR BUILD  | SHIP  | RUN  | CHANGE  |
