@@ -1,7 +1,15 @@
+---
+title: Microservices
+keywords: Microservices
+sidebar: framework_sidebar
+permalink: microservices.html
+toc: true
+summary:
+---
 
 # Microservices
 ## Context
-The term **Microservice Architecture** has sprung up over the last few years to describe a particular way of designing software applications as suites of independently deployable services. While there is no precise definition of this architectural style, there are certain common characteristics around organization around business capability, automated deployment, intelligence in the endpoints, and decentralized control of languages and data. 
+The term **Microservice Architecture** has sprung up over the last few years to describe a particular way of designing software applications as suites of independently deployable services. While there is no precise definition of this architectural style, there are certain common characteristics around organization around business capability, automated deployment, intelligence in the endpoints, and decentralized control of languages and data.
 
 Source: [Martin Fowler](http://martinfowler.com/articles/microservices.html)
 
@@ -20,5 +28,5 @@ Microservices provide benefits…
 
 ## Further Reading
  [Martin Fowler](http://martinfowler.com/articles/microservices.html)
- 
+
  [Martin Fowler- When to use microservices](http://martinfowler.com/microservices/#when)

@@ -1,3 +1,12 @@
+---
+title: Quotes
+keywords:
+sidebar: framework_sidebar
+permalink: quotes.html
+toc: true
+summary:
+---
+
 # QUOTES
 
 ## Doug McIlroy

@@ -1,3 +1,11 @@
+---
+title: Patterns
+keywords:
+sidebar: framework_sidebar
+permalink: patterns.html
+toc: true
+summary:
+---
 # PATTERNS
 
 ## [MICROSERVICES PATTERNS](http://microservices.io/patterns/index.html)

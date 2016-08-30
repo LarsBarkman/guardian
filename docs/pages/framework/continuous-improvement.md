@@ -1,3 +1,12 @@
+---
+title: Continuous Improvement
+keywords: Continuous Improvement
+sidebar: framework_sidebar
+permalink: continuous-improvement.html
+toc: true
+summary:
+---
+
 # CONTINUOUS IMPROVEMENT
 
 ## Context

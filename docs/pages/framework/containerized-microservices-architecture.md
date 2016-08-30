@@ -1,4 +1,11 @@
-# Containerized Microservices Architecture
+---
+title: Containerized Microservices Architecture
+keywords: Containerized Microservices Architecture
+sidebar: framework_sidebar
+permalink: containerized-microservices-architecture.html
+toc: true
+summary:
+---
 
 ## Context
 

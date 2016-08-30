@@ -1,4 +1,12 @@
-# THE FRAMEWORK
+---
+title: THE FRAMEWORK
+keywords:
+sidebar: framework_sidebar
+permalink: the-framework.html
+toc: true
+summary:
+---
+
 ## The framework shall
 * Give direction
 * Set the boundaries

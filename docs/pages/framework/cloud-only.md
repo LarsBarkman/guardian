@@ -1,5 +1,12 @@
+---
+title: Cloud-only
+keywords: Cloud
+sidebar: framework_sidebar
+permalink: cloud-only.html
+toc: true
+summary:
+---
 
-# Cloud-only
 ## Context
 > By 2019, more than 30 percent of the 100 largest vendors' new software investments will have shifted from cloud-first to cloud-only.
 

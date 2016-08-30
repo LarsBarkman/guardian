@@ -1,4 +1,12 @@
-# Customer Value chain
+---
+title: Customer Value Chain
+keywords: Customer Value Chain
+sidebar: framework_sidebar
+permalink: customer-value-chain.html
+toc: true
+summary:
+---
+
 ## Context
 A **value chain** is a set of activities that a firm operating in a specific industry performs in order to deliver a valuable product or service for the market. The concept comes from business management and was first described and popularized by Michael Porter in his 1985 best-seller, Competitive Advantage: Creating and Sustaining Superior Performance.[
 
@@ -13,5 +21,5 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Value_chain)
 
 ## Further Reading
  [Wikipedia - Value-chain](https://en.wikipedia.org/wiki/Value_chain)
- 
+
  [Wikepedia - Competitive Advantage: Creating and Sustaining Superior Performance](https://en.wikipedia.org/wiki/Competitive_Advantage)

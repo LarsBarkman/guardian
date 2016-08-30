@@ -1,4 +1,11 @@
-# Evolutionary Architecture
+---
+title: Evolutionary Architecture
+keywords: Evolutionary Architecture
+sidebar: framework_sidebar
+permalink: evolutionary-architecture.html
+toc: true
+summary:
+---
 
 ## Context
 

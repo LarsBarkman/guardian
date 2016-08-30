@@ -1,3 +1,12 @@
+---
+title: Standardizations
+keywords:
+sidebar: framework_sidebar
+permalink: standardizations.html
+toc: true
+summary:
+---
+
 # STANDARDIZATIONS
 ## Standardize ONLY when
 * Deemed necessary for the sake of interoperability

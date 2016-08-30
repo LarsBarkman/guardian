@@ -1,4 +1,12 @@
-# Containers as a Service (CaaS)-only
+---
+title: Containers as a Service (CaaS)-only
+keywords: Containers Service CaaS
+sidebar: framework_sidebar
+permalink: caas-only.html
+toc: true
+summary:
+---
+
 ## Context
 > Containers as a Service is a model where IT organizations and developers can work together to build, ship and run their applications anywhere. CaaS enables an IT secured and managed application environment consisting of content and infrastructure, from which developers are able build and deploy applications in a self service manner.
 

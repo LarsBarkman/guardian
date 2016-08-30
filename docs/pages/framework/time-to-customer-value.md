@@ -1,3 +1,12 @@
+---
+title: Time to Customer Value
+keywords:
+sidebar: framework_sidebar
+permalink: time-to-customer-value.html
+toc: true
+summary:
+---
+
 # TIME TO CUSTOMER VALUE
 
 ## Context

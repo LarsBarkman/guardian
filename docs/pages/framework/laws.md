@@ -1,3 +1,11 @@
+---
+title: Laws
+keywords:
+sidebar: framework_sidebar
+permalink: laws.html
+toc: true
+summary:
+---
 # LAWS
 
 Thera are many good laws that help us be more effective in life, but there are three laws that are fundamental for Software Architecture.  
