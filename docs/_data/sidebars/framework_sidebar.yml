@@ -121,7 +121,7 @@ entries:
 
     folderitems:
     - title: Cooperation
-      url: cooperation.html
+      url: /cooperation.html
       output: web, pdf
 
     - title: Don't Build What Can Be Used or Bought

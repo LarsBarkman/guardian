@@ -10,7 +10,7 @@ summary: A complete overview of all areas of The Framework in the form of a matr
 ## Overview
 Find out the meaning and ideas behind the [levels](levels.html) and [columns](columns.html).
 
-| LEVELS  | CULTURE  | BOUNDED CONTEXT  | SOFTWARE ARCHITECTURE  | USE, BUY OR BUILD  | SHIP  | [RUN  | CHANGE  |
+| LEVELS  | CULTURE  | BOUNDED CONTEXT  | SOFTWARE ARCHITECTURE  | USE, BUY OR BUILD  | SHIP  | RUN  | CHANGE  |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | ***POLITICAL***  | [Influence Legislators and Constituents](influence-legislators-and-constituents.html)  | [Customer Value-chain](customer-value-chain.html)  | N/A  | [Cooperation](cooperation.html)  | [Time to Customer Value](time-to-customer-value.html)  | N/A | N/A |
 | ***STRATEGIC***  | [From Command & Control To Purpose And Trust](from-command-control-to-purpose-and-trust.html)  | [Business Capabilities And Information](business-capabilities-and-information.html)  | [Evolutionary Architecture](evolutionary-architecture.html)  | [”Don’t Build, What Can Be Used Or Bought”](dont-build-what-can-be-used-or-bought.html)  | [Created And Proven By Doing](created-and-proven-by-doing.html)  | [Cloud-only](cloud-only.html)  | [Continuous Improvement](continuous-improvement.html)  |
