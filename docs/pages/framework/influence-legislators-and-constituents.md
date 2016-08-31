@@ -3,7 +3,7 @@ title: Influence Legislators and Constituents
 keywords: Influence Legislators Constituents
 sidebar: framework_sidebar
 permalink: influence-legislators-and-constituents.html
-summary: Digitalisation will influence technology as well as rules and laws. Let´s be a part of it.
+summary: Digitalisation will influence technology as well as rules, laws and business models. Let´s be a part of it.
 ---
 
 ## Context
