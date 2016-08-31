@@ -176,8 +176,8 @@ entries:
       url: /continuous-improvement.html
       output: web, pdf
 
-    - title: Fly by Instruments
-      url: /fly-by-instruments.html
+    - title: Observe Orient Decide Act
+      url: /observe-orient-decide-act.html
       output: web, pdf
 
     - title: Collect and Use Metrics and Telemetry
