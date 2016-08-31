@@ -3,6 +3,7 @@ title: Radical Agility
 keywords: Radical Agility
 sidebar: framework_sidebar
 permalink: radical-agility.html
+summary: Radical Agility isn’t just a methodology, but a system that allows us to embrace emerging technologies, learn quickly and develop at a high level.
 ---
 
 ## Context
@@ -24,3 +25,4 @@ Source: [RADICAL AGILITY – ONE YEAR ON](https://blog.zalando.com/en/blog/radic
 * [Radical Agility with Autonomous Teams and Microservices in the Cloud](https://tech.zalando.de/blog/radical-agility-with-autonomous-teams-and-microservices-in-the-cloud/)
 * [RADICAL AGILITY – ONE YEAR ON](https://blog.zalando.com/en/blog/radical-agility-one-year-0)
 * [Spotify engineering culture (part 1)](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
+* [Radical Agility As A Business-Technology Principle](http://www.forbes.com/sites/adrianbridgwater/2016/04/04/radical-agility-as-a-business-technology-principle/#3a8f576765d4)
