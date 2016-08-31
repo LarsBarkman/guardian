@@ -4,7 +4,7 @@ keywords: Business Capabilities Information
 sidebar: framework_sidebar
 permalink: business-capabilities-and-information.html
 toc: true
-summary:
+summary: Applying a capabilities lens changes how executives make important strategic decisions
 ---
 
 # Business Capabilities and Information
