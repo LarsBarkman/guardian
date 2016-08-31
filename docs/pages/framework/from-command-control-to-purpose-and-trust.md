@@ -4,7 +4,7 @@ keywords: Command Control Purpose Trust
 sidebar: framework_sidebar
 permalink: from-command-control-to-purpose-and-trust.html
 toc: true
-summary:
+summary: Imagine a world where people wake up inspired to go to work.
 ---
 
 
@@ -45,3 +45,5 @@ Source: [Innovation management](http://www.innovationmanagement.se/imtool-articl
 
 ## Further Reading
 [The Innovative Leader vs. the Command-and-Control Leader](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
+
+[Simon Sinek´s - Starts with Why](https://www.startwithwhy.com/)
