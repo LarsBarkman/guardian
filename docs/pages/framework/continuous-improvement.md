@@ -20,3 +20,4 @@ Source: [leankit](https://leankit.com/learn/kanban/continuous-improvement/)
 
 ## Further Reading
 * [WHAT IS CONTINUOUS IMPROVEMENT?](https://leankit.com/learn/kanban/continuous-improvement/)
+* [Why Continuous Improvement Is Worth It?](https://www.petrikainulainen.net/software-development/processes/why-continuous-improvement-is-worth-it/)
