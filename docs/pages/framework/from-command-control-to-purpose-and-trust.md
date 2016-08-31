@@ -4,7 +4,7 @@ keywords: Command Control Purpose Trust
 sidebar: framework_sidebar
 permalink: from-command-control-to-purpose-and-trust.html
 toc: true
-summary: Imagine a world where people wake up inspired to go to work.
+summary: Imagine a world where people wake up inspired to go to work, a world in which trust and loyalty are the rule rather than the exception.
 ---
 
 
