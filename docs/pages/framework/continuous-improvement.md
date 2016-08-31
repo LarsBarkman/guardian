@@ -4,7 +4,7 @@ keywords: Continuous Improvement
 sidebar: framework_sidebar
 permalink: continuous-improvement.html
 toc: true
-summary:
+summary: Continuous improvement is not just a fancy word. It is a natural process which aims to improve our current situation. We don’t want to work harder if we can achieve the same or better result by working smarter. In other words, we want to eliminate all work that isn’t absolutely necessary.
 ---
 
 ## Context
