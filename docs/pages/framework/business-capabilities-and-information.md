@@ -4,7 +4,7 @@ keywords: Business Capabilities Information
 sidebar: framework_sidebar
 permalink: business-capabilities-and-information.html
 toc: true
-summary: Applying a capabilities lens changes how executives make important strategic decisions
+summary: Capabilities-Driven Strategy enable companies to become more coherent and to gain a right to win in the markets in which they have decided to compete. Applying a capabilities lens changes how executives make important strategic decisions
 ---
 
 # Business Capabilities and Information
