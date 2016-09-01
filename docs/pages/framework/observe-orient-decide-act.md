@@ -1,5 +1,5 @@
 ---
-title: Observe Orient Decide Act
+title: Observe, Orient, Decide and Act
 keywords: OODA-loop
 sidebar: framework_sidebar
 permalink: observe-orient-decide-act.html
