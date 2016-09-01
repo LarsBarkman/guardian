@@ -96,10 +96,6 @@ entries:
       url: /quotes.html
       output: web, pdf
 
-    - title: Laws
-      url: /laws.html
-      output: web, pdf
-
     - title: Principles
       url: /principles.html
       output: web, pdf
