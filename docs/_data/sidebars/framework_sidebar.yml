@@ -180,6 +180,6 @@ entries:
       url: /observe-orient-decide-act.html
       output: web, pdf
 
-    - title: Collect and Use Metrics and Telemetry
-      url: /collect-and-use-metrics-and-telemetry.html
+    - title: Metrics-Driven Development
+      url: metrics-driven-development.html
       output: web, pdf

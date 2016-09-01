@@ -25,4 +25,3 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/OODA_loop)
 
 * [Wikipedia](https://en.wikipedia.org/wiki/OODA_loop)
 * [Kevin Sookocheff](https://sookocheff.com/post/mdd/mdd/)
-
