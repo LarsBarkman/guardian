@@ -44,8 +44,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Influence Legislators and Constituents
-      url: /influence-legislators-and-constituents.html
+    - title: Cooperation
+      url: /cooperation.html
       output: web, pdf
 
     - title: From Command & Control To Purpose And Trust
@@ -56,8 +56,8 @@ entries:
       url: /autonomy-mastery-and-purpose.html
       output: web, pdf
 
-    - title: Radical Agility
-      url: /radical-agility.html
+    - title: Products not Projects
+      url: /products-not-projects.html
       output: web, pdf
 
   - title: Bounded Context
@@ -92,28 +92,16 @@ entries:
       url: /containerized-microservices-architecture.html
       output: web, pdf
 
-    - title: Quotes
-      url: /quotes.html
-      output: web, pdf
-
-    - title: Principles
-      url: /principles.html
-      output: web, pdf
-
-    - title: Patterns
-      url: /patterns.html
-      output: web, pdf
-
-    - title: Standardizations
-      url: /standardizations.html
+    - title: Tools of the Trade
+      url: /tools-of-the-trade.html
       output: web, pdf
 
   - title: Use, Buy or Build
     output: web, pdf
 
     folderitems:
-    - title: Cooperation
-      url: /cooperation.html
+    - title: Open Source First
+      url: /open-source-first.html
       output: web, pdf
 
     - title: Don't Build What Can Be Used or Bought
@@ -124,8 +112,8 @@ entries:
       url: /respect-the-bounded-context.html
       output: web, pdf
 
-    - title: When and How to Use, Buy or Build
-      url: /when-and-how-to-use-buy-or-build.html
+    - title: The Decision Tree
+      url: /decision-tree.html
       output: web, pdf
 
   - title: Ship

@@ -27,16 +27,16 @@ Find out the meaning and ideas behind the [levels](levels.html) and [columns](co
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999; }
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA; text-align:center}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4; text-align:center}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#FAFAFA; text-align:center}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#347DBE; text-align:center}
 .tg .tg-gzvs{font-weight:bold;color:#444444;vertical-align:center}
-.tg .tg-ndyo{background-color:#D2E4FC;color:#444444}
-.tg .tg-7buf{background-color:#D2E4FC;color:#444444;vertical-align:center}
-.tg .tg-br8q{font-weight:bold;background-color:#26ade4;color:#ffffff}
-.tg .tg-ugn7{background-color:#26ade4;font-weight:bold;color:#ffffff}
-.tg .tg-yp41{font-size:16px; font-weight:bold;color:#ffffff}
-.tg .tg-6nvl{font-weight:bold;color:#444444}
-.tg .tg-at8w{color:#444444}
+.tg .tg-ndyo{background-color:#f1f1f1;color:#444444;vertical-align:center}
+.tg .tg-7buf{background-color:#f1f1f1;color:#444444;vertical-align:center}
+.tg .tg-br8q{font-weight:bold;background-color:#347DBE;color:#ffffff;vertical-align:center}
+.tg .tg-ugn7{background-color:#347DBE;font-weight:bold;color:#ffffff;vertical-align:center}
+.tg .tg-yp41{font-size:16px; font-weight:bold;color:#ffffff;vertical-align:center}
+.tg .tg-6nvl{font-weight:bold;color:#444444;vertical-align:center}
+.tg .tg-at8w{color:#444444;vertical-align:center}
 .tg .tg-csp5{color:#444444;vertical-align:center}
 </style>
 <table class="tg">
@@ -52,7 +52,7 @@ Find out the meaning and ideas behind the [levels](levels.html) and [columns](co
     <td class="tg-br8q">USE, BUY OR BUILD</td>
     <td class="tg-ugn7">SHIP</td>
     <td class="tg-br8q">RUN</td>
-    <td class="tg-ugn7"></td>
+    <td class="tg-ugn7">CHANGE</td>
   </tr>
   <tr>
     <td class="tg-6nvl">POLITICAL</td>
