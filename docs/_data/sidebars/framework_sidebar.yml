@@ -181,5 +181,5 @@ entries:
       output: web, pdf
 
     - title: Metrics-Driven Development
-      url: metrics-driven-development.html
+      url: /metrics-driven-development.html
       output: web, pdf
