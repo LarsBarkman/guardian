@@ -66,23 +66,44 @@ Find out the meaning and ideas behind the [levels](levels.html) and [columns](co
   </tr>
   <tr>
     <td class="tg-6nvl">STRATEGIC</td>
-    <td class="tg-ndyo"><a href="from-command-control-to-purpose-and-trust.html" title=" ">From Command & Control To Purpose And Trust</a></td>
-    <td class="tg-at8w"><a href="business-capabilities-and-information.html" title=" ">Business Capabilities And Information</a></td>
+
+    <td class="tg-ndyo"><a href="from-command-control-to-purpose-and-trust.html" title="Imagine a world where people wake up inspired to go to work,
+a world in which trust and loyalty are the rule rather than the exception">From Command & Control To Purpose And Trust</a></td>
+
+    <td class="tg-at8w"><a href="business-capabilities-and-information.html" title="Capabilities-Driven Strategy enable companies to become more coherent
+and to gain a right to win in the markets in which they have decided to compete.
+Applying a capabilities lens changes how executives make important strategic decisions">Business Capabilities And Information</a></td>
+
     <td class="tg-ndyo"><a href="evolutionary-architecture.html" title=" ">Evolutionary Architecture</a></td>
     <td class="tg-at8w"><a href="dont-build-what-can-be-used-or-bought.html" title=" ">Don’t Build, What Can Be Used Or Bought</a></td>
     <td class="tg-ndyo"><a href="created-and-proven-by-doing.html" title=" ">Created And Proven By Doing</a></td>
     <td class="tg-at8w"><a href="cloud-only.html" title=" ">Cloud-only</a></td>
-    <td class="tg-ndyo"><a href="continuous-improvement.html" title=" ">Continuous Improvement</a></td>
+
+    <td class="tg-ndyo"><a href="continuous-improvement.html" title="Continuous improvement is not just a fancy word.
+It is a natural process which aims to improve our current situation.
+e don’t want to work harder if we can achieve the same or better
+result by working smarter. In other words, we want to eliminate all
+work that isn’t absolutely necessary">Continuous Improvement</a></td>
+
   </tr>
   <tr>
     <td class="tg-6nvl">OPERATIONAL</td>
-    <td class="tg-ndyo"><a href="autonomy-mastery-and-purpose.html" title=" ">Autonomy, Mastery And Purpose</a></td>
+
+    <td class="tg-ndyo"><a href="autonomy-mastery-and-purpose.html" title="To motivate employees who work beyond basic tasks,
+give them these three factors to increase performance
+and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery And Purpose</a></td>
     <td class="tg-at8w"><a href="business-services.html" title=" ">Business Services</a></td>
+
     <td class="tg-ndyo"><a href="containerized-microservices-architecture.html" title=" ">Containerized Microservices Architecture</a></td>
     <td class="tg-at8w"><a href="respect-the-bounded-context.html" title=" ">Respect The Bounded Context</a></td>
     <td class="tg-ndyo"><a href="optimize-for-speed-not-efficiency.html" title=" ">Optimize For Speed, Not Efficiency</a></td>
     <td class="tg-at8w"><a href="caas-only.html" title=" ">CaaS-only</a></td>
-    <td class="tg-ndyo"><a href="observe-orient-decide-act.html" title=" ">Observe, Orient, Decide and Act</a></td>
+
+    <td class="tg-ndyo"><a href="observe-orient-decide-act.html" title="By deploying a change and measuring its effects,
+  the team gain confidence that any software change
+  is reliable, performant, and affects the metric of
+  interest, confirming any hypothesis">Observe, Orient, Decide and Act</a></td>
+
   </tr>
   <tr>
     <td class="tg-gzvs">TACTICAL</td>
@@ -92,7 +113,10 @@ Find out the meaning and ideas behind the [levels](levels.html) and [columns](co
     <td class="tg-csp5"><a href="decision-tree.html" title=" ">The Decision Tree</a></td>
     <td class="tg-7buf"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
     <td class="tg-csp5"><a href="you-build-it-you-run-it.html" title=" ">“You Build It, You Run It.”</a></td>
-    <td class="tg-7buf"><a href="metrics-driven-development.html" title=" ">Metrics-Driven Development</a></td>
+    <td class="tg-7buf"><a href="metrics-driven-development.html" title="Metrics-Driven Development (MDD) The use of real-time metrics to drive
+rapid, precise, and granular software iterations. MDD is an emerging term
+developing from the practices of continuous integration, continuous delivery,
+dev ops, and agile software methodologies">Metrics-Driven Development</a></td>
   </tr>
 </table>
 
