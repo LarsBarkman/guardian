@@ -49,7 +49,7 @@ Find out the meaning and ideas behind the [levels](levels.html) and [columns](co
     <td class="tg-ugn7">CULTURE</td>
     <td class="tg-br8q">BOUNDED CONTEXT</td>
     <td class="tg-ugn7">IT ARCHITECTURE</td>
-    <td class="tg-br8q">USE, BUY OR BUILD</td>
+    <td class="tg-br8q">SOURCING</td>
     <td class="tg-ugn7">SHIP</td>
     <td class="tg-br8q">RUN</td>
     <td class="tg-ugn7">CHANGE</td>

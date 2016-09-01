@@ -57,12 +57,12 @@ Source: [culttt.com](http://culttt.com/2014/11/19/bounded-contexts-context-maps-
 * [BoundedContext](http://martinfowler.com/bliki/BoundedContext.html)
 * [What is the Domain Model in Domain Driven Design?](http://culttt.com/2014/11/12/domain-model-domain-driven-design)
 
-## SOFTWARE ARCHITECTURE
-* When transitioning to "Cloud-only", everything becomes code, even infrastructure ([Infrastructure as Code](http://martinfowler.com/bliki/InfrastructureAsCode.html))
-* When everything becomes code, it's part of the software architecture
-* When everything becomes code, the same rules applys to all
+## IT ARCHITECTURE
+>  IT architecture is a series of principles, guidelines or rules used by an enterprise to direct the process of acquiring, building, modifying and interfacing IT resources throughout the enterprise. These resources can include equipment, software, communications, development methodologies, modeling tools and organizational structures.
 
-## USE, BUY OR BUILD
+Source: [Gartner](http://www.gartner.com/it-glossary/architecture/)
+
+## SOURCING
 Coming soon
 
 ## SHIP

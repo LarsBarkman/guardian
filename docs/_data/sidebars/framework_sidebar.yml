@@ -96,7 +96,7 @@ entries:
       url: /tools-of-the-trade.html
       output: web, pdf
 
-  - title: Use, Buy or Build
+  - title: Sourcing
     output: web, pdf
 
     folderitems:
