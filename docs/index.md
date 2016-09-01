@@ -41,7 +41,8 @@ Find out the meaning and ideas behind the [levels](levels.html) and [columns](co
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-yp41" colspan="4">ENABLING DIGITAL</th>
+    <th class="tg-yp41" colspan="1"></th>
+    <th class="tg-yp41" colspan="3">ENABLING DIGITAL</th>
     <th class="tg-yp41" colspan="4">BEING DIGITAL</th>
   </tr>
   <tr>
@@ -50,9 +51,9 @@ Find out the meaning and ideas behind the [levels](levels.html) and [columns](co
     <td class="tg-br8q">BOUNDED CONTEXT</td>
     <td class="tg-ugn7">IT ARCHITECTURE</td>
     <td class="tg-br8q">SOURCING</td>
-    <td class="tg-ugn7">SHIP</td>
-    <td class="tg-br8q">RUN</td>
-    <td class="tg-ugn7">CHANGE</td>
+    <td class="tg-ugn7">DEPLOYMENT</td>
+    <td class="tg-br8q">OPERATIONS</td>
+    <td class="tg-ugn7">IMPROVEMENT</td>
   </tr>
   <tr>
     <td class="tg-6nvl">POLITICAL</td>
