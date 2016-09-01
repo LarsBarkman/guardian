@@ -9,7 +9,6 @@ summary: Continuous improvement is not just a fancy word. It is a natural proces
 
 ## Boyd’s law
 >Speed of iteration beats quality of iteration.    
-
 > – Colonel John Boyd
 
 ## Context
