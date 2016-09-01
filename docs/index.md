@@ -41,8 +41,8 @@ Find out the meaning and ideas behind the [levels](levels.html) and [columns](co
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-yp41" colspan="3">ENABLING DIGITAL</th>
-    <th class="tg-yp41" colspan="5">BEING DIGITAL</th>
+    <th class="tg-yp41" colspan="4">ENABLING DIGITAL</th>
+    <th class="tg-yp41" colspan="4">BEING DIGITAL</th>
   </tr>
   <tr>
     <td class="tg-br8q">LEVELS</td>

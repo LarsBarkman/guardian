@@ -80,7 +80,7 @@ entries:
       url: /microservices.html
       output: web, pdf
 
-  - title: Software Architecture
+  - title: IT Architecture
     output: web, pdf
 
     folderitems:
@@ -116,7 +116,7 @@ entries:
       url: /decision-tree.html
       output: web, pdf
 
-  - title: Ship
+  - title: Deployment
     output: web, pdf
 
     folderitems:
@@ -136,7 +136,7 @@ entries:
       url: /continuous-deployment.html
       output: web, pdf
 
-  - title: Run
+  - title: Operations
     output: web, pdf
 
     folderitems:
@@ -152,7 +152,7 @@ entries:
       url: /you-build-it-you-run-it.html
       output: web, pdf
 
-  - title: Change
+  - title: Improvement
     output: web, pdf
 
     folderitems:

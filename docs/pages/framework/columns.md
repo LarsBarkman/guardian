@@ -65,7 +65,7 @@ Source: [Gartner](http://www.gartner.com/it-glossary/architecture/)
 ## SOURCING
 Coming soon
 
-## SHIP
+## DEPLOYMENT
 **Ship** (Software deployment) is all of the activities that make a software system available for use.
 
 In continuous delivery, we introduce two new architectural attributes: testability and deployability.
@@ -79,8 +79,8 @@ Source: [Continuousdelivery.com](https://continuousdelivery.com/implementing/arc
 ### Further Reading
 [Continuousdelivery.com](https://continuousdelivery.com/implementing/architecture/)
 
-## RUN
+## OPERATIONS
 Coming soon
 
-## CHANGE
+## IMPROVEMENT
 Coming soon
