@@ -26,9 +26,9 @@ GUARDIAN is An Opinionated Inductive Guidance Framework for Digital Transformati
 Find out the meaning and ideas behind the [levels](levels.html) and [columns](columns.html).
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#999; }
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#FAFAFA; text-align:center}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#347DBE; text-align:center}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;vertical-align:center}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#FAFAFA; text-align:center;vertical-align:center}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#347DBE; text-align:center;vertical-align:center}
 .tg .tg-gzvs{font-weight:bold;color:#444444;vertical-align:center}
 .tg .tg-ndyo{background-color:#f1f1f1;color:#444444;vertical-align:center}
 .tg .tg-7buf{background-color:#f1f1f1;color:#444444;vertical-align:center}
