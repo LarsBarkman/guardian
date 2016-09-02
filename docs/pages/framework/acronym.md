@@ -1,13 +1,12 @@
 ---
-title: Explaining The Acronym "GUARDIAN"
+title: Explaining The Acronym
 keywords: Acronym
 sidebar: framework_sidebar
 permalink: acronym.html
 ---
 
-> ***GUARDIAN***
-
-> -- An Opinionated Inductive ***GU***idance fr***A***mework fo***R*** ***DI***gital tr***AN***sformation
+> **GUARDIAN**
+> -- An Opinionated Inductive **GU**idance fr**A**mework fo**R** **DI**gital tr**AN**sformation
 
 ## Opinionated
 > Someone who isn't afraid to give their personal opinion. It doesn't have to be a bad thing. It's just someone that doesn't stay quiet, if they don't agree with something.
