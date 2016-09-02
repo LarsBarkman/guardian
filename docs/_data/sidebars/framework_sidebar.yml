@@ -40,7 +40,7 @@ entries:
       url: /columns.html
       output: web, pdf
 
-  - title: CULTURE
+  - title: Culture
     output: web, pdf
     folderitems:
 
@@ -60,7 +60,7 @@ entries:
       url: /products-not-projects.html
       output: web, pdf
 
-  - title: BOUNDED CONTEXT
+  - title: Bounded Context
     output: web, pdf
     folderitems:
 
@@ -80,7 +80,7 @@ entries:
       url: /microservices.html
       output: web, pdf
 
-  - title: IT ARCHITECTURE
+  - title: IT Architecture
     output: web, pdf
 
     folderitems:
@@ -96,7 +96,7 @@ entries:
       url: /tools-of-the-trade.html
       output: web, pdf
 
-  - title: BUILD
+  - title: Build
     output: web, pdf
 
     folderitems:
@@ -116,7 +116,7 @@ entries:
       url: /we-make.html
       output: web, pdf
 
-  - title: SHIP
+  - title: Ship
     output: web, pdf
 
     folderitems:
@@ -136,7 +136,7 @@ entries:
       url: /continuous-deployment.html
       output: web, pdf
 
-  - title: RUN
+  - title: Run
     output: web, pdf
 
     folderitems:
@@ -152,7 +152,7 @@ entries:
       url: /you-build-it-you-run-it.html
       output: web, pdf
 
-  - title: CHANGE
+  - title: Change
     output: web, pdf
 
     folderitems:
