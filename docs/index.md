@@ -32,9 +32,10 @@ Find out the meaning and ideas behind the [levels](levels.html) and [columns](co
 .tg .tg-gzvs{font-weight:bold;color:#444444;vertical-align:middle}
 .tg .tg-ndyo{background-color:#f1f1f1;color:#444444;vertical-align:middle}
 .tg .tg-7buf{background-color:#f1f1f1;color:#444444;vertical-align:middle}
-.tg .tg-br8q{font-weight:bold;background-color:#347DBE;color:#ffffff;vertical-align:middle}
-.tg .tg-ugn7{background-color:#347DBE;font-weight:bold;color:#ffffff;vertical-align:middle}
+.tg .tg-br8q{font-weight:bold;background-color:#347DBE;color:#ffffff;vertical-align:middle;min-width:120px;}
+.tg .tg-ugn7{background-color:#347DBE;font-weight:bold;color:#ffffff;vertical-align:middle;min-width:120px;}
 .tg .tg-yp41{font-size:16px; font-weight:bold;color:#ffffff;vertical-align:middle}
+.tg .tg-yp42{font-size:16px; font-weight:bold;color:#ffffff;vertical-align:middle}
 .tg .tg-6nvl{font-weight:bold;color:#444444;vertical-align:middle}
 .tg .tg-at8w{color:#444444;vertical-align:middle}
 .tg .tg-csp5{color:#444444;vertical-align:middle}
@@ -42,8 +43,8 @@ Find out the meaning and ideas behind the [levels](levels.html) and [columns](co
 <table class="tg">
   <tr>
     <th class="tg-yp41" colspan="1"></th>
-    <th class="tg-yp41" colspan="3">ENABLING DIGITAL</th>
-    <th class="tg-yp41" colspan="4">BEING DIGITAL</th>
+    <th class="tg-yp42" colspan="3">ENABLING DIGITAL</th>
+    <th class="tg-yp42" colspan="4">BEING DIGITAL</th>
   </tr>
   <tr>
     <td class="tg-br8q">LEVELS</td>
