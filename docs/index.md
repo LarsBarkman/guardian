@@ -6,24 +6,6 @@ permalink: index.html
 toc: false
 ---
 
-<div class="row">
-        <div class="col-md-3 col-sm-6">
-            <div class="panel panel-default text-center">
-                <div class="panel-heading">
-                    <span class="fa-stack fa-5x">
-                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                          <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
-                    </span>
-                </div>
-                <div class="panel-body">
-                    <h4>Service One</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
-                </div>
-            </div>
-        </div>
-</div>
-
 ## What is GUARDIAN?
 GUARDIAN is An Opinionated Inductive Guidance Framework for Digital Transformation.
 
@@ -114,10 +96,10 @@ give them these three factors to increase performance
 and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery And Purpose</a></td>
     <td class="tg-at8w"><a href="business-services.html" title=" ">Business Services</a></td>
 
-    <td class="tg-ndyo"><a href="containerized-microservices-architecture.html" title=" ">Containerized Microservices Architecture</a></td>
+    <td class="tg-ndyo"><a href="microservices-architecture.html" title=" ">Microservices Architecture</a></td>
     <td class="tg-at8w"><a href="respect-the-bounded-context.html" title=" ">Respect The Bounded Context</a></td>
     <td class="tg-ndyo"><a href="optimize-for-speed-not-efficiency.html" title=" ">Optimize For Speed, Not Efficiency</a></td>
-    <td class="tg-at8w"><a href="caas-only.html" title=" ">CaaS-only</a></td>
+    <td class="tg-at8w"><a href="self-service-services.html" title=" ">Self-service Services</a></td>
 
     <td class="tg-ndyo"><a href="observe-orient-decide-act.html" title="By deploying a change and measuring its effects,
   the team gain confidence that any software change
@@ -127,12 +109,12 @@ and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery And Purpose</
   </tr>
   <tr>
     <td class="tg-gzvs">TACTICAL</td>
-    <td class="tg-7buf"><a href="products-not-projects.html" title=" ">Products Not Projects</a></td>
+    <td class="tg-7buf"><a href="products-not-projects.html" title=" ">Products<br>Not Projects</a></td>
     <td class="tg-csp5"><a href=" " title=" ">Microservices</a></td>
-    <td class="tg-7buf"><a href="tools-of-the-trade.html" title=" ">Tools Of The Trade</a></td>
-    <td class="tg-csp5"><a href="we-make.html" title=" ">“(...)We Make A Life By What We Give”</a></td>
+    <td class="tg-7buf"><a href="cloud-native.html" title=" ">Cloud Native</a></td>
+    <td class="tg-csp5"><a href="technical-excellence.html" title=" ">Technical Excellence</a></td>
     <td class="tg-7buf"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
-    <td class="tg-csp5"><a href="you-build-it-you-run-it.html" title=" ">“You Build It,<br> You Run It.”</a></td>
+    <td class="tg-csp5"><a href="you-build-it-you-run-it.html" title=" ">“You Build It,<br>You Run It.”</a></td>
     <td class="tg-7buf"><a href="metrics-driven-development.html" title="Metrics-Driven Development (MDD) The use of real-time metrics to drive
 rapid, precise, and granular software iterations. MDD is an emerging term
 developing from the practices of continuous integration, continuous delivery,

@@ -56,7 +56,7 @@ entries:
       url: /autonomy-mastery-and-purpose.html
       output: web, pdf
 
-    - title: Products not Projects
+    - title: Products Not Projects
       url: /products-not-projects.html
       output: web, pdf
 
@@ -88,12 +88,12 @@ entries:
       url: /evolutionary-architecture.html
       output: web, pdf
 
-    - title: Containerized Microservices Architecture
-      url: /containerized-microservices-architecture.html
+    - title: Microservices Architecture
+      url: /microservices-architecture.html
       output: web, pdf
 
-    - title: Tools of the Trade
-      url: /tools-of-the-trade.html
+    - title: Cloud Native
+      url: /cloud-native.html
       output: web, pdf
 
   - title: Build
@@ -112,8 +112,8 @@ entries:
       url: /respect-the-bounded-context.html
       output: web, pdf
 
-    - title: “(...)We Make A Life By What We Give”
-      url: /we-make.html
+    - title: Technical Excellence
+      url: /technical-excellence.html
       output: web, pdf
 
   - title: Ship
@@ -144,8 +144,8 @@ entries:
       url: /cloud-only.html
       output: web, pdf
 
-    - title: Containers as a Service (CaaS)-only
-      url: /caas-only.html
+    - title: Self-service Services
+      url: /self-service-services.html
       output: web, pdf
 
     - title: "You Build It, You Run It"
