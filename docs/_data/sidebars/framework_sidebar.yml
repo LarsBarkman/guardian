@@ -40,7 +40,7 @@ entries:
       url: /columns.html
       output: web, pdf
 
-  - title: Culture
+  - title: CULTURE
     output: web, pdf
     folderitems:
 
@@ -60,7 +60,7 @@ entries:
       url: /products-not-projects.html
       output: web, pdf
 
-  - title: Bounded Context
+  - title: BOUNDED CONTEXT
     output: web, pdf
     folderitems:
 
@@ -80,7 +80,7 @@ entries:
       url: /microservices.html
       output: web, pdf
 
-  - title: IT Architecture
+  - title: IT ARCHITECTURE
     output: web, pdf
 
     folderitems:
@@ -96,7 +96,7 @@ entries:
       url: /tools-of-the-trade.html
       output: web, pdf
 
-  - title: Sourcing
+  - title: BUILD
     output: web, pdf
 
     folderitems:
@@ -112,11 +112,11 @@ entries:
       url: /respect-the-bounded-context.html
       output: web, pdf
 
-    - title: The Decision Tree
-      url: /decision-tree.html
+    - title: “We Make A Living By What We Get. We Make A Life By What We Give.”
+      url: /we-make.html
       output: web, pdf
 
-  - title: Deployment
+  - title: SHIP
     output: web, pdf
 
     folderitems:
@@ -136,7 +136,7 @@ entries:
       url: /continuous-deployment.html
       output: web, pdf
 
-  - title: Operations
+  - title: RUN
     output: web, pdf
 
     folderitems:
@@ -152,7 +152,7 @@ entries:
       url: /you-build-it-you-run-it.html
       output: web, pdf
 
-  - title: Improvement
+  - title: CHANGE
     output: web, pdf
 
     folderitems:

@@ -50,10 +50,10 @@ Find out the meaning and ideas behind the [levels](levels.html) and [columns](co
     <td class="tg-ugn7">CULTURE</td>
     <td class="tg-br8q">BOUNDED CONTEXT</td>
     <td class="tg-ugn7">IT ARCHITECTURE</td>
-    <td class="tg-br8q">SOURCING</td>
-    <td class="tg-ugn7">DEPLOYMENT</td>
-    <td class="tg-br8q">OPERATIONS</td>
-    <td class="tg-ugn7">IMPROVEMENT</td>
+    <td class="tg-br8q">BUILD</td>
+    <td class="tg-ugn7">SHIP</td>
+    <td class="tg-br8q">RUN</td>
+    <td class="tg-ugn7">CHANGE</td>
   </tr>
   <tr>
     <td class="tg-6nvl">POLITICAL</td>
@@ -111,7 +111,7 @@ and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery And Purpose</
     <td class="tg-7buf"><a href="products-not-projects.html" title=" ">Products not Projects</a></td>
     <td class="tg-csp5"><a href=" " title=" ">Microservices</a></td>
     <td class="tg-7buf"><a href="tools-of-the-trade.html" title=" ">Tools of the Trade</a></td>
-    <td class="tg-csp5"><a href="decision-tree.html" title=" ">The Decision Tree</a></td>
+    <td class="tg-csp5"><a href="we-make.html" title=" ">“We Make A Living By What We Get. We Make A Life By What We Give.”</a></td>
     <td class="tg-7buf"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
     <td class="tg-csp5"><a href="you-build-it-you-run-it.html" title=" ">“You Build It, You Run It.”</a></td>
     <td class="tg-7buf"><a href="metrics-driven-development.html" title="Metrics-Driven Development (MDD) The use of real-time metrics to drive
