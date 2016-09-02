@@ -114,7 +114,7 @@ and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery And Purpose</
     <td class="tg-7buf"><a href="tools-of-the-trade.html" title=" ">Tools of the Trade</a></td>
     <td class="tg-csp5"><a href="we-make.html" title=" ">“We Make A Living By What We Get. We Make A Life By What We Give.”</a></td>
     <td class="tg-7buf"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
-    <td class="tg-csp5"><a href="you-build-it-you-run-it.html" title=" ">“You Build It, You Run It.”</a></td>
+    <td class="tg-csp5"><a href="you-build-it-you-run-it.html" title=" ">“You Build It,</br> You Run It.”</a></td>
     <td class="tg-7buf"><a href="metrics-driven-development.html" title="Metrics-Driven Development (MDD) The use of real-time metrics to drive
 rapid, precise, and granular software iterations. MDD is an emerging term
 developing from the practices of continuous integration, continuous delivery,
