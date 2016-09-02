@@ -19,14 +19,18 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Introduction
+  - title: GUARDIAN Framework
     output: web, pdf
     folderitems:
 
-    - title: Welcome
+    - title: Introduction to GUARDIAN
       url: /index.html
       output: web, pdf
       type: homepage
+
+    - title: Why GUARDIAN
+      url: /why-guardian.html
+      output: web, pdf
 
     - title: Explaining The Acronym
       url: /acronym.html

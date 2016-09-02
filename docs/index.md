@@ -1,5 +1,5 @@
 ---
-title: Welcome to GUARDIAN
+title: Introduction to GUARDIAN
 keywords:  GUARDIAN Guidance Framework Digital Transformation
 sidebar: framework_sidebar
 permalink: index.html
@@ -99,7 +99,12 @@ and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery And Purpose</
     <td class="tg-ndyo"><a href="microservices-architecture.html" title=" ">Microservices Architecture</a></td>
     <td class="tg-at8w"><a href="respect-the-bounded-context.html" title=" ">Respect The Bounded Context</a></td>
     <td class="tg-ndyo"><a href="optimize-for-speed-not-efficiency.html" title=" ">Optimize For Speed, Not Efficiency</a></td>
-    <td class="tg-at8w"><a href="self-service-services.html" title=" ">Self-service Services</a></td>
+
+    <td class="tg-at8w"><a href="self-service-services.html" title="Self-service is over the phone, web,
+and email to facilitate customer interactions using automation.
+Self-service software and self-service apps (for example online
+banking apps, web portals with shops, self-service check-in at
+the airport) become increasingly common.">Self-service Services</a></td>
 
     <td class="tg-ndyo"><a href="observe-orient-decide-act.html" title="By deploying a change and measuring its effects,
   the team gain confidence that any software change
