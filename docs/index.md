@@ -7,9 +7,6 @@ toc: false
 ---
 
 <div class="row">
-        <div class="col-lg-12">
-            <h2 class="page-header">Welcome to GUARDIAN</h2>
-        </div>
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
