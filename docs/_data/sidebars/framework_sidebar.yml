@@ -112,7 +112,7 @@ entries:
       url: /respect-the-bounded-context.html
       output: web, pdf
 
-    - title: “We Make A Living By What We Get. We Make A Life By What We Give.”
+    - title: “(...)We Make A Life By What We Give”
       url: /we-make.html
       output: web, pdf
 
