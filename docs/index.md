@@ -6,6 +6,27 @@ permalink: index.html
 toc: false
 ---
 
+<div class="row">
+        <div class="col-lg-12">
+            <h2 class="page-header">Welcome to GUARDIAN</h2>
+        </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="panel panel-default text-center">
+                <div class="panel-heading">
+                    <span class="fa-stack fa-5x">
+                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="panel-body">
+                    <h4>Service One</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                    <a href="#" class="btn btn-primary">Learn More</a>
+                </div>
+            </div>
+        </div>
+</div>
+
 ## What is GUARDIAN?
 GUARDIAN is An Opinionated Inductive Guidance Framework for Digital Transformation.
 
@@ -109,9 +130,9 @@ and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery And Purpose</
   </tr>
   <tr>
     <td class="tg-gzvs">TACTICAL</td>
-    <td class="tg-7buf"><a href="products-not-projects.html" title=" ">Products not Projects</a></td>
+    <td class="tg-7buf"><a href="products-not-projects.html" title=" ">Products Not Projects</a></td>
     <td class="tg-csp5"><a href=" " title=" ">Microservices</a></td>
-    <td class="tg-7buf"><a href="tools-of-the-trade.html" title=" ">Tools of the Trade</a></td>
+    <td class="tg-7buf"><a href="tools-of-the-trade.html" title=" ">Tools Of The Trade</a></td>
     <td class="tg-csp5"><a href="we-make.html" title=" ">“(...)We Make A Life By What We Give”</a></td>
     <td class="tg-7buf"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
     <td class="tg-csp5"><a href="you-build-it-you-run-it.html" title=" ">“You Build It,<br> You Run It.”</a></td>
