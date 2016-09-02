@@ -32,8 +32,8 @@ Find out the meaning and ideas behind the [levels](levels.html) and [columns](co
 .tg .tg-gzvs{font-weight:bold;color:#444444;vertical-align:middle}
 .tg .tg-ndyo{background-color:#f1f1f1;color:#444444;vertical-align:middle}
 .tg .tg-7buf{background-color:#f1f1f1;color:#444444;vertical-align:middle}
-.tg .tg-br8q{font-weight:bold;background-color:#347DBE;color:#ffffff;vertical-align:middle;min-width:120px;}
-.tg .tg-ugn7{background-color:#347DBE;font-weight:bold;color:#ffffff;vertical-align:middle;min-width:120px;}
+.tg .tg-br8q{font-weight:bold;background-color:#347DBE;color:#ffffff;vertical-align:middle;min-width:110px;}
+.tg .tg-ugn7{background-color:#347DBE;font-weight:bold;color:#ffffff;vertical-align:middle;min-width:110px;}
 .tg .tg-yp41{font-size:16px; font-weight:bold;color:#ffffff;vertical-align:middle}
 .tg .tg-yp42{font-size:16px; font-weight:bold;color:#ffffff;vertical-align:middle}
 .tg .tg-6nvl{font-weight:bold;color:#444444;vertical-align:middle}
@@ -110,7 +110,7 @@ and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery And Purpose</
   <tr>
     <td class="tg-gzvs">TACTICAL</td>
     <td class="tg-7buf"><a href="products-not-projects.html" title=" ">Products<br>Not Projects</a></td>
-    <td class="tg-csp5"><a href=" " title=" ">Microservices</a></td>
+    <td class="tg-csp5"><a href="microservices.html" title=" ">Microservices</a></td>
     <td class="tg-7buf"><a href="cloud-native.html" title=" ">Cloud Native</a></td>
     <td class="tg-csp5"><a href="technical-excellence.html" title=" ">Technical Excellence</a></td>
     <td class="tg-7buf"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
