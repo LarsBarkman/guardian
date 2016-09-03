@@ -8,15 +8,15 @@ summary:
 ---
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-2thk{background-color:#c0c0c0;text-align:center;font-weight:bold}
-.tg .tg-1jmy{background-color:#347dbe;color:#ffffff;text-align:center;font-weight:bold}
-.tg .tg-944b{background-color:#ffffff;color:#ffffff;text-align:center;max-width:10px;}
-.tg .tg-6997{background-color:#ffffff;color:#000000;text-align:center}
-.tg .tg-qems{background-color:#c0c0c0;color:#000000;text-align:center;min-width:110px;}
-.tg .tg-tr94{background-color:#efefef;color:#000000;text-align:center;min-width:110px;}
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#999}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999}
+.tg .tg-2thk{background-color:#c0c0c0;text-align:center;font-weight:bold;border-color:#999}
+.tg .tg-1jmy{background-color:#347dbe;color:#ffffff;text-align:center;font-weight:bold;border-color:#999}
+.tg .tg-944b{background-color:#ffffff;color:#ffffff;text-align:center;max-width:5px;border-color:#999}
+.tg .tg-6997{background-color:#ffffff;color:#000000;text-align:center;border-color:#999}
+.tg .tg-qems{background-color:#c0c0c0;color:#000000;text-align:center;min-width:110px;border-color:#999}
+.tg .tg-tr94{background-color:#efefef;color:#000000;text-align:center;min-width:110px;border-color:#999}
 </style>
 <table class="tg">
 <tr>
