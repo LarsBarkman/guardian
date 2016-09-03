@@ -48,7 +48,7 @@ Read about [The Levels](levels.html) in The Framework.
 </tr>
 <tr>
 <td class="tg-2thk">STRATEGIC</td>
-<td class="tg-qems"><a href="from-command-control-to-purpose-and-trust.html" title="Imagine a world where people wake up inspired to go to work, a world in which trust and loyalty are the rule rather than the exception">From Command & Control To Purpose And Trust</a></td>
+<td class="tg-qems"><a href="trust-and-guidance.html" title="Imagine a world where people wake up inspired to go to work, a world in which trust and loyalty are the rule rather than the exception">From Command & Control To Trust And Guidance</a></td>
 <td class="tg-tr94"><a href="business-capabilities.html" title="Capabilities-Driven Strategy enable companies to become more coherent and to gain a right to win in the markets in which they have decided to compete. Applying a capabilities lens changes how executives make important strategic decisions">Business Capabilities</a></td>
 <td class="tg-qems"><a href="products-not-projects.html" title=" ">Products<br>Not Projects</a></td>
 <td class="tg-tr94"><a href="evolutionary-architecture.html" title=" ">Evolutionary Architecture</a></td>
@@ -62,7 +62,7 @@ It is a natural process which aims to improve our current situation. We don’t 
 <td class="tg-2thk">OPERATIONAL</td>
 <td class="tg-qems"><a href="autonomy-mastery-and-purpose.html" title="To motivate employees who work beyond basic tasks, give them these three factors to increase performance and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery And Purpose</a></td>
 <td class="tg-tr94"><a href="business-services.html" title=" ">Business Services</a></td>
-<td class="tg-qems"><a href="self-selection.html" title=" ">Self-selection</a></td>
+<td class="tg-qems"><a href="bizdevops.html" title=" ">BizDevOps</a></td>
 <td class="tg-tr94"><a href="microservices-architecture.html" title=" ">Microservices Architecture</a></td>
 <td class="tg-qems"><a href="respect-the-bounded-context.html" title=" ">Respect The Bounded Context</a></td>
 <td class="tg-tr94"><a href="optimize-for-speed-not-efficiency.html" title=" ">Optimize For Speed, Not Efficiency</a></td>
