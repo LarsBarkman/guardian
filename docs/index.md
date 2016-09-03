@@ -1,5 +1,5 @@
 ---
-title: Welcome to GUARDIAN
+title:
 keywords:  GUARDIAN Guidance Framework Digital Transformation
 sidebar: framework_sidebar
 permalink: index.html
@@ -7,9 +7,10 @@ toc: false
 ---
 <br>
 <div class="row">
-        <div class="col-lg-12">
-            <h2 class="page-header">Overview</h2>
+        <div class="col-lg-16">
+            <h2 class="page-header">Welcome to GUARDIAN</h2>
         </div>
+        <br>
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
