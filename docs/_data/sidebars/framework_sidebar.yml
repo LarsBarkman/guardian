@@ -28,18 +28,6 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Why GUARDIAN
-      url: /why-guardian.html
-      output: web, pdf
-
-    - title: Enabling Digital
-      url: /enabling-digital.html
-      output: web, pdf
-
-    - title: Being Digital
-      url: /being-digital.html
-      output: web, pdf
-
     - title: The Matrix
       url: /the-matrix.html
       output: web, pdf
@@ -56,7 +44,7 @@ entries:
       url: /columns.html
       output: web, pdf
 
-  - title: Culture
+  - title: Culture And Values
     output: web, pdf
     folderitems:
 
@@ -64,19 +52,19 @@ entries:
       url: /cooperation.html
       output: web, pdf
 
-    - title: From Command & Control To Purpose And Trust
-      url: /from-command-control-to-purpose-and-trust.html
+    - title: From Command & Control To Trust And Guidance
+      url: /trust-and-guidance.html
       output: web, pdf
 
     - title: Autonomy, Mastery and Purpose
       url: /autonomy-mastery-and-purpose.html
       output: web, pdf
 
-    - title: Products Not Projects
-      url: /products-not-projects.html
+    - title: Empathy
+      url: /empathy.html
       output: web, pdf
 
-  - title: Bounded Context
+  - title: Context And Purpose
     output: web, pdf
     folderitems:
 
@@ -92,11 +80,27 @@ entries:
       url: /business-services.html
       output: web, pdf
 
-    - title: Microservices
-      url: /microservices.html
+    - title: Domain Model
+      url: /domain-model.html
       output: web, pdf
 
-  - title: IT Architecture
+  - title: Structure And Staffing
+    output: web, pdf
+    folderitems:
+
+    - title: Products Not Projects
+      url: /products-not-projects.html
+      output: web, pdf
+
+    - title: BizDevOps
+      url: /bizdevops.html
+      output: web, pdf
+
+    - title: Self-organization
+      url: /self-organization.html
+      output: web, pdf
+
+  - title: Architecture And Design
     output: web, pdf
 
     folderitems:
