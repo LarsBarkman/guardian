@@ -11,7 +11,7 @@ summary:
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;vertical-align:middle}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;vertical-align:middle}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;vertical-align:middle}
-.tg .tg-2thk{background-color:#347dbe;color:#ffffff;text-align:center;font-weight:bold;border-color:#999;vertical-align:middle}
+.tg .tg-2thk{background-color:#347dbe;color:#ffffff;text-align:center;min-width:110px;font-weight:bold;border-color:#999;vertical-align:middle}
 .tg .tg-1jmy{background-color:#347dbe;color:#ffffff;text-align:center;font-weight:bold;border-color:#999;vertical-align:middle}
 .tg .tg-944b{background-color:#ffffff;color:#ffffff;text-align:center;max-width:5px;border-color:#999;vertical-align:middle}
 .tg .tg-6997{background-color:#ffffff;color:#000000;text-align:center;border-color:#999;vertical-align:middle}
@@ -25,10 +25,10 @@ summary:
 <th class="tg-1jmy" colspan="4">BEING DIGITAL</th>
 </tr>
 <tr>
-<td class="tg-1jmy">CULTURE AND VALUES</td>
-<td class="tg-1jmy">CONTEXT AND PURPOSE</td>
-<td class="tg-1jmy">STRUCTURE AND STAFFING</td>
-<td class="tg-1jmy">ARCHITECTURE AND<br>DESIGN</td>
+<td class="tg-1jmy">CULTURE<br>AND<br>VALUES</td>
+<td class="tg-1jmy">CONTEXT<br>AND<br>PURPOSE</td>
+<td class="tg-1jmy">STRUCTURE<br>AND<br>STAFFING</td>
+<td class="tg-1jmy">ARCHITECTURE<br>AND<br>DESIGN</td>
 <td class="tg-1jmy">BUILD</td>
 <td class="tg-1jmy">SHIP</td>
 <td class="tg-1jmy">RUN</td>
