@@ -68,6 +68,21 @@ toc: false
                 </div>
             </div>
         </div>
+        <div class="col-md-3 col-sm-6">
+            <div class="panel panel-default text-center">
+                <div class="panel-heading">
+                    <span class="fa-stack fa-5x">
+                          <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
+                          <i class="fa fa-road fa-stack-1x fa-inverse"></i>
+                    </span>
+                </div>
+                <div class="panel-body">
+                    <h4>TRANSFORMATION</h4>
+                    <p>When the traget is clear it's time to transform the enterprise. The methology is based around a simple pattern that let's the enterprise transform with maximum speed and minimum risk.</p>
+                    <a href="#transformation" class="btn btn-primary">Learn More</a>
+                </div>
+            </div>
+        </div>
     </div>
 
 ## Why GUARDIAN
