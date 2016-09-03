@@ -40,8 +40,8 @@ entries:
       url: /levels.html
       output: web, pdf
 
-    - title: Columns in The Framework
-      url: /columns.html
+    - title: Known Anti-patterns
+      url: /anti-patterns.html
       output: web, pdf
 
   - title: Culture And Values

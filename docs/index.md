@@ -74,16 +74,17 @@ toc: false
 ## Why Guardian
 
 ## Enabling Digital
+### Culture And Values
+### Context And Purpose
+### Structure And Staffing
+### Architecture And Design
 
 ## Being Digital
+### Build
+### Ship
+### Run
+### Change
 
 ## Transformation
-
-
-
-## Known [anti-patterns](http://martinfowler.com/bliki/AntiPattern.html)
-* [Traditional Digital Strategy](https://www.thoughtworks.com/insights/blog/digital-strategy-dead)
-* [Architecture as a Recipe](http://doveltech.com/innovation/the-beginning-of-the-end-for-enterprise-architecture-frameworks/)
-
 
 {% include links.html %}
