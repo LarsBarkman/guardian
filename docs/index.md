@@ -65,8 +65,8 @@ toc: false
                 </div>
                 <div class="panel-body">
                     <h4>THE<br>MATRIX</h4>
-                    <p>To help get a good view of the whole framework we recommend using The Matrix. It gives a birds eye view of all areas in a easy to grasp way.</p>
-                    <a href="#the-matrix" class="btn btn-primary">Learn More</a>
+                    <p>To get a good view of the whole framework we recommend using The Matrix. It gives a birds eye view of all areas in an easy to grasp way.</p>
+                    <a href="the-matrix.html" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>
