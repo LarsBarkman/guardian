@@ -28,10 +28,6 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Overview
-      url: /overview.html
-      output: web, pdf
-
     - title: Why GUARDIAN
       url: /why-guardian.html
       output: web, pdf
@@ -42,6 +38,10 @@ entries:
 
     - title: Being Digital
       url: /being-digital.html
+      output: web, pdf
+
+    - title: The Matrix
+      url: /the-matrix.html
       output: web, pdf
 
     - title: Explaining The Acronym

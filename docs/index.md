@@ -5,8 +5,11 @@ sidebar: framework_sidebar
 permalink: index.html
 toc: false
 ---
-
+<br>
 <div class="row">
+        <div class="col-lg-12">
+            <h2 class="page-header">Overview</h2>
+        </div>
         <div class="col-md-3 col-sm-6">
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
@@ -26,7 +29,7 @@ toc: false
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
-                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
                           <i class="fa fa-car fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
@@ -41,7 +44,7 @@ toc: false
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
-                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
                           <i class="fa fa-support fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
@@ -56,7 +59,7 @@ toc: false
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
-                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
                           <i class="fa fa-database fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
@@ -70,7 +73,7 @@ toc: false
     </div>
 
 
-## Overview
+## The Matrix
 Find out the meaning and ideas behind the [levels](levels.html) and [columns](columns.html).
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;vertical-align:middle}
