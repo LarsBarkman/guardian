@@ -11,7 +11,7 @@ summary:
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;vertical-align:middle}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;vertical-align:middle}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;vertical-align:middle}
-.tg .tg-2thk{background-color:#c0c0c0;text-align:center;font-weight:bold;border-color:#999;vertical-align:middle}
+.tg .tg-2thk{background-color:#347dbe;color:#ffffff;text-align:center;font-weight:bold;border-color:#999;vertical-align:middle}
 .tg .tg-1jmy{background-color:#347dbe;color:#ffffff;text-align:center;font-weight:bold;border-color:#999;vertical-align:middle}
 .tg .tg-944b{background-color:#ffffff;color:#ffffff;text-align:center;max-width:5px;border-color:#999;vertical-align:middle}
 .tg .tg-6997{background-color:#ffffff;color:#000000;text-align:center;border-color:#999;vertical-align:middle}
@@ -61,7 +61,7 @@ It is a natural process which aims to improve our current situation. We don’t 
 <td class="tg-2thk">OPERATIONAL</td>
 <td class="tg-qems"><a href="autonomy-mastery-and-purpose.html" title="To motivate employees who work beyond basic tasks, give them these three factors to increase performance and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery And Purpose</a></td>
 <td class="tg-tr94"><a href="business-services.html" title=" ">Business Services</a></td>
-<td class="tg-qems">Self-selection</td>
+<td class="tg-qems"><a href="self-selection.html" title=" ">Self-selection</a></td>
 <td class="tg-tr94"><a href="microservices-architecture.html" title=" ">Microservices Architecture</a></td>
 <td class="tg-qems"><a href="respect-the-bounded-context.html" title=" ">Respect The Bounded Context</a></td>
 <td class="tg-tr94"><a href="optimize-for-speed-not-efficiency.html" title=" ">Optimize For Speed, Not Efficiency</a></td>
@@ -70,10 +70,10 @@ It is a natural process which aims to improve our current situation. We don’t 
 </tr>
 <tr>
 <td class="tg-2thk">TACTICAL</td>
-<td class="tg-qems">Empathy</td>
-<td class="tg-tr94">Domain Model</td>
-<td class="tg-qems">Self-organization </td>
-<td class="tg-tr94"><a href="cloud-native.html" title=" ">Cloud Native</a></td>s
+<td class="tg-qems"><a href="empathy.html" title=" ">Empathy</a></td>
+<td class="tg-tr94"><a href="domain-model.html" title=" ">Domain Model</a></td>
+<td class="tg-qems"><a href="self-organization.html" title=" ">Self-organization</a></td>
+<td class="tg-tr94"><a href="cloud-native.html" title=" ">Cloud Native</a></td>
 <td class="tg-qems"><a href="technical-excellence.html" title=" ">Technical Excellence</a></td>
 <td class="tg-tr94"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
 <td class="tg-qems"><a href="you-build-it-you-run-it.html" title=" ">“You Build It,<br>You Run It.”</a></td>
