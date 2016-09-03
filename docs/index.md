@@ -19,7 +19,7 @@ toc: false
                 <div class="panel-body">
                     <h4>WHY GUARDIAN</h4>
                     <p>Digital Transformation is hard! GUARDIAN gives direction, sets the boundaries, standardize where deemed appropriate, focusing on not be overly prescriptive and is constantly evolving to help with a smooth transition.</p>
-                    <a href="why-guardian.html" class="btn btn-primary">Learn More</a>
+                    <a href="#why-guardian" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>
@@ -34,7 +34,7 @@ toc: false
                 <div class="panel-body">
                     <h4>ENABLING DIGITAL</h4>
                     <p>Enterprises can't handle the rapid pase and fierce competition in the digital market place without changind the very core it's built upon.</p>
-                    <a href="enabling-digital.html" class="btn btn-primary">Learn More</a>
+                    <a href="#enabling-digital" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>
@@ -49,7 +49,7 @@ toc: false
                 <div class="panel-body">
                     <h4>BEING DIGITAL</h4>
                     <p>The rapid pase and fierce competition in the digital market place require a whole different level of customer focus, innovation and time to customer value.</p>
-                    <a href="being-digital.html" class="btn btn-primary">Learn More</a>
+                    <a href="#being-digital" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>
@@ -64,7 +64,7 @@ toc: false
                 <div class="panel-body">
                     <h4>TRANSFORMATION</h4>
                     <p>When the traget is clear it's time to transform the enterprise. The methology is based around a simple pattern that let's the enterprise transform with maximum speed and minimum risk.</p>
-                    <a href="methodology_landing_page.html" class="btn btn-primary">Learn More</a>
+                    <a href="#transformation" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>
@@ -74,15 +74,23 @@ toc: false
 ## Why Guardian
 
 ## Enabling Digital
+
 ### Culture And Values
+
 ### Context And Purpose
+
 ### Structure And Staffing
+
 ### Architecture And Design
 
 ## Being Digital
+
 ### Build
+
 ### Ship
+
 ### Run
+
 ### Change
 
 ## Transformation
