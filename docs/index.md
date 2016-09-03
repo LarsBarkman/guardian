@@ -15,7 +15,7 @@ toc: false
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
                           <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
-                          <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-dot-circle-o fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="panel-body">
@@ -30,7 +30,7 @@ toc: false
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
                           <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
-                          <i class="fa fa-car fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-compass fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="panel-body">
@@ -45,7 +45,7 @@ toc: false
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
                           <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
-                          <i class="fa fa-support fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-cubes fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="panel-body">
@@ -60,7 +60,7 @@ toc: false
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
                           <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
-                          <i class="fa fa-database fa-stack-1x fa-inverse"></i>
+                          <i class="fa fa-road fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="panel-body">
