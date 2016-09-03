@@ -1,8 +1,10 @@
 ---
-title: Explaining The Acronym
+title: The Acronym
 keywords: Acronym
 sidebar: framework_sidebar
 permalink: acronym.html
+toc: false
+summary:
 ---
 
 > **GUARDIAN**

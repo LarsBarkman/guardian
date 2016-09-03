@@ -1,5 +1,5 @@
 ---
-title: Levels in The Framework
+title: The Levels
 keywords: Levels
 sidebar: framework_sidebar
 permalink: levels.html

@@ -32,11 +32,11 @@ entries:
       url: /the-matrix.html
       output: web, pdf
 
-    - title: Explaining The Acronym
+    - title: The Acronym
       url: /acronym.html
       output: web, pdf
 
-    - title: Levels in The Framework
+    - title: The Levels
       url: /levels.html
       output: web, pdf
 

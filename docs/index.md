@@ -70,8 +70,7 @@ toc: false
         </div>
     </div>
 
-
-## Why Guardian
+## Why GUARDIAN
 
 ## Enabling Digital
 
