@@ -11,14 +11,14 @@ toc: false
             <div class="panel panel-default text-center">
                 <div class="panel-heading">
                     <span class="fa-stack fa-5x">
-                          <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                          <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
                           <i class="fa fa-tree fa-stack-1x fa-inverse"></i>
                     </span>
                 </div>
                 <div class="panel-body">
                     <h4>WHY GUARDIAN</h4>
                     <p>GUARDIAN gives direction, sets the boundaries, standardize where deemed appropriate, focusing on not be overly prescriptive and is constantly evolving.</p>
-                    <a href="#" class="btn btn-primary">Learn More</a>
+                    <a href="why-guardian.html" class="btn btn-primary">Learn More</a>
                 </div>
             </div>
         </div>
