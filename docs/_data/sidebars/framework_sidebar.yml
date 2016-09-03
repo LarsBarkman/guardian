@@ -84,8 +84,8 @@ entries:
       url: /customer-value-chain.html
       output: web, pdf
 
-    - title: Business Capabilities and Information
-      url: /business-capabilities-and-information.html
+    - title: Business Capabilities
+      url: /business-capabilities.html
       output: web, pdf
 
     - title: Business Services
