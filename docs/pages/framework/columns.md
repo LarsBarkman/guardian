@@ -62,10 +62,10 @@ Source: [culttt.com](http://culttt.com/2014/11/19/bounded-contexts-context-maps-
 
 Source: [Gartner](http://www.gartner.com/it-glossary/architecture/)
 
-## SOURCING
+## BUILD
 Coming soon
 
-## DEPLOYMENT
+## SHIP
 **Ship** (Software deployment) is all of the activities that make a software system available for use.
 
 In continuous delivery, we introduce two new architectural attributes: testability and deployability.
@@ -79,8 +79,8 @@ Source: [Continuousdelivery.com](https://continuousdelivery.com/implementing/arc
 ### Further Reading
 [Continuousdelivery.com](https://continuousdelivery.com/implementing/architecture/)
 
-## OPERATIONS
+## RUN
 Coming soon
 
-## IMPROVEMENT
+## CHANGE
 Coming soon

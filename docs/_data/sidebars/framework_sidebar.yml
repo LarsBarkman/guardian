@@ -23,13 +23,25 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Introduction to GUARDIAN
+    - title: Welcome
       url: /index.html
       output: web, pdf
       type: homepage
 
+    - title: Overview
+      url: /overview.html
+      output: web, pdf
+
     - title: Why GUARDIAN
       url: /why-guardian.html
+      output: web, pdf
+
+    - title: Enabling Digital
+      url: /enabling-digital.html
+      output: web, pdf
+
+    - title: Being Digital
+      url: /being-digital.html
       output: web, pdf
 
     - title: Explaining The Acronym
