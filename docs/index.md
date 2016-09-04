@@ -4,7 +4,7 @@ keywords:  GUARDIAN Guidance Framework Digital Transformation
 sidebar: framework_sidebar
 permalink: index.html
 toc: false
-summary: GUARDIAN Is a Framework That Gives Guidence and Supports To Enterprises Just Starting Their Digital Transformation Or Having Truble In Their Current Transformation. The Framework Addresses Eight Key Areas, In Four Different Time Perspectives.
+summary: GUARDIAN Is a Framework That Gives Guidence To Enterprises In Their Digital Transformation. The Framework Addresses Eight Key Areas, In Four Different Time Perspectives.
 ---
 <br>
 <!-- Service List -->
