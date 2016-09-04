@@ -6,7 +6,6 @@ permalink: index.html
 toc: false
 summary: GUARDIAN Is a Framework That Gives Guidence To Enterprises In Their Digital Transformation. The Framework Addresses Eight Key Areas, In Four Different Time Perspectives.
 ---
-<br>
 <!-- Service List -->
 <!-- The circle icons use Font Awesome's stacked icon classes. For more information, visit http://fontawesome.io/examples/ -->
 <div class="row">
