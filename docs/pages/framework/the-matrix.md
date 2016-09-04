@@ -74,7 +74,7 @@ It is a natural process which aims to improve our current situation. We don’t 
 <td class="tg-qems"><a href="empathy.html" title=" ">Empathy</a></td>
 <td class="tg-tr94"><a href="domain-model.html" title=" ">Domain Model</a></td>
 <td class="tg-qems"><a href="self-organization.html" title=" ">Self-organization</a></td>
-<td class="tg-tr94"><a href="being-cloud-native.html" title=" ">Being Cloud Native</a> And <a href="cloud-native.html" title=" ">Dealing With Legacy</a></td>
+<td class="tg-tr94"><a href="being-cloud-native.html" title=" ">Being Cloud Native</a> And <a href="dealing-with-legacy.html" title=" ">Dealing With Legacy</a></td>
 <td class="tg-qems"><a href="technical-excellence.html" title=" ">Technical Excellence</a></td>
 <td class="tg-tr94"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
 <td class="tg-qems"><a href="you-build-it-you-run-it.html" title=" ">“You Build It,<br>You Run It.”</a></td>
