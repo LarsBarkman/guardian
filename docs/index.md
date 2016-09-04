@@ -4,7 +4,7 @@ keywords:  GUARDIAN Guidance Framework Digital Transformation
 sidebar: framework_sidebar
 permalink: index.html
 toc: false
-summary: Welcome to **GUARDIAN** An Opinionated Inductive **GU**idance fr**A**mework fo**R** **DI**gital tr**AN**sformation.
+summary: 
 ---
 <br>
 <!-- Service List -->
@@ -47,12 +47,12 @@ summary: Welcome to **GUARDIAN** An Opinionated Inductive **GU**idance fr**A**me
             </div>
             <div class="media-body">
                 <h4 class="media-heading">THE ACRONYM</h4>
-                <p>An
-                <a href="http://www.urbandictionary.com/define.php?term=Opinionated" title=" ">Opinionated</a>
-                <a href="https://en.wikipedia.org/wiki/Inductive_reasoning" title=" ">Inductive</a>   
-                <a href="http://www.merriam-webster.com/dictionary/guidance" title=" "><b>GU</b>idance</a>
-                <a href="http://www.merriam-webster.com/dictionary/framework" title=" ">fr<b>A</b>mework</a>
-                <br>fo<b>R</b>
+                <p>An<br>
+                <a href="http://www.urbandictionary.com/define.php?term=Opinionated" title=" ">Opinionated</a><br>
+                <a href="https://en.wikipedia.org/wiki/Inductive_reasoning" title=" ">Inductive</a><br>
+                <a href="http://www.merriam-webster.com/dictionary/guidance" title=" "><b>GU</b>idance</a><br>
+                <a href="http://www.merriam-webster.com/dictionary/framework" title=" ">fr<b>A</b>mework</a><br>
+                fo<b>R</b><br>
                 <a href="https://en.wikipedia.org/wiki/Digital_transformation" title=" "><b>DI</b>gital tr<b>AN</b>sformation</a>                 
                 </p>
             </div>
@@ -104,6 +104,19 @@ summary: Welcome to **GUARDIAN** An Opinionated Inductive **GU**idance fr**A**me
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
                       <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
+                      <i class="fa fa-recycle fa-stack-1x fa-inverse"></i>
+                </span>
+            </div>
+            <div class="media-body">
+                <h4 class="media-heading">THE TIME PERSPECTIVE</h4>
+                <p>The framework is devided into four levels (Time Perspectives); Political, Strategic, Operational and Tactical. We use the "correct" military definitions where Operational comes before Tactical.</p>
+                <a href="the-time-perspective.html" class="btn-xs btn-primary">Learn More</a>                  
+            </div>
+        </div>    
+        <div class="media">
+            <div class="pull-left">
+                <span class="fa-stack fa-2x">
+                      <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
                       <i class="fa fa-bomb fa-stack-1x fa-inverse"></i>
                 </span>
             </div>
@@ -124,18 +137,6 @@ summary: Welcome to **GUARDIAN** An Opinionated Inductive **GU**idance fr**A**me
                 <h4 class="media-heading">KNOWN ANTI-PATTERNS</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
                 <a href="anti-patterns.html" class="btn-xs btn-primary">Learn More</a>                
-            </div>
-        </div>
-        <div class="media">
-            <div class="pull-left">
-                <span class="fa-stack fa-2x">
-                      <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
-                      <i class="fa fa-recycle fa-stack-1x fa-inverse"></i>
-                </span>
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Service Nine</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
             </div>
         </div>
     </div>

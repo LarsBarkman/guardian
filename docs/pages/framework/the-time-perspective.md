@@ -1,8 +1,8 @@
 ---
-title: The Levels
-keywords: Levels
+title: The Time Perspective
+keywords: Time Perspective
 sidebar: framework_sidebar
-permalink: levels.html
+permalink: the-time-perspective.html
 summary: An explanation of the different levels in The Framework
 ---
 

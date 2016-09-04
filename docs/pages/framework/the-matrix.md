@@ -7,7 +7,7 @@ toc: false
 summary:
 ---
 <br>
-Read about [The Levels](levels.html) in The Framework.
+Read about [The Levels](the-time-perspective.html) in The Framework.
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;vertical-align:middle}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;vertical-align:middle}

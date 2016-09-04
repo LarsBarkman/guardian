@@ -40,8 +40,8 @@ entries:
       url: /being-digital.html
       output: web, pdf
 
-    - title: The Levels
-      url: /levels.html
+    - title: The Time Perspective
+      url: /the-time-perspective.html
       output: web, pdf
 
     - title: Known Anti-patterns
