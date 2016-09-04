@@ -4,6 +4,7 @@ keywords:  GUARDIAN Guidance Framework Digital Transformation
 sidebar: framework_sidebar
 permalink: index.html
 toc: false
+summary: Welcome to **GUARDIAN** An Opinionated Inductive **GU**idance fr**A**mework fo**R** **DI**gital tr**AN**sformation.
 ---
 <br>
 <!-- Service List -->
@@ -22,10 +23,40 @@ toc: false
             </div>
             <div class="media-body">
                 <h4 class="media-heading">WHY GUARDIAN</h4>
-                <p>Digital Transformation is hard! GUARDIAN gives direction, sets the boundaries, standardize where deemed appropriate, focusing on not be overly prescriptive and is constantly evolving to help with a smooth transition. Keep on reading...</p>
-                <a href="#" class="btn-xs btn-primary">Learn More</a>
+                <p>Digital Transformation is hard! GUARDIAN gives direction, sets the boundaries, standardize where deemed appropriate, focusing on not be overly prescriptive and is constantly evolving to help with a smooth transition.</p>
             </div>
         </div>
+        <div class="media">
+            <div class="pull-left">
+                <span class="fa-stack fa-2x">
+                      <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
+                      <i class="fa fa-bank fa-stack-1x fa-inverse"></i>
+                </span>
+            </div>
+            <div class="media-body">
+                <h4 class="media-heading">TARGET AUDIENCE</h4>
+                <p>This framework was written for companies that have digital products and/or service offerings. The framework should be particularly suitable for "old sectors" like banks and insurance companies.</p>
+            </div>
+        </div>
+        <div class="media">
+            <div class="pull-left">
+                <span class="fa-stack fa-2x">
+                      <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
+                      <i class="fa fa-bank fa-stack-1x fa-inverse"></i>
+                </span>
+            </div>
+            <div class="media-body">
+                <h4 class="media-heading">THE ACRONYM</h4>
+                <p>An
+                <a href="http://www.urbandictionary.com/define.php?term=Opinionated" title=" ">Opinionated</a>
+                <a href="https://en.wikipedia.org/wiki/Inductive_reasoning" title=" ">Inductive</a>                             
+                **GU**idance fr**A**mework fo**R**
+                <a href="https://en.wikipedia.org/wiki/Digital_transformation" title=" ">**DI**gital tr**AN**sformation</a>                 
+                </p>
+            </div>
+        </div>       
+    </div>
+    <div class="col-md-4">
         <div class="media">
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
@@ -48,12 +79,10 @@ toc: false
             </div>
             <div class="media-body">
                 <h4 class="media-heading">ENABLING DIGITAL</h4>
-                <p>Enterprises can't handle the rapid pase and fierce competition in the digital market place without changing the very core it's built upon. Keep on reading...</p>
-                <a href="#" class="btn-xs btn-primary">Learn More</a>
+                <p>Enterprises can't handle the rapid pase and fierce competition in the digital market place without changing the very core it's built upon.</p>
+                <a href="enabling-digital.html" class="btn-xs btn-primary">Learn More</a>
             </div>
         </div>
-    </div>
-    <div class="col-md-4">
         <div class="media">
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
@@ -63,10 +92,12 @@ toc: false
             </div>
             <div class="media-body">
                 <h4 class="media-heading">BEING DIGITAL</h4>
-                <p>The rapid pase and fierce competition in the digital market place require a whole different level of customer focus, innovation and time to customer value. Keep on reading...</p>
-                <a href="#" class="btn-xs btn-primary">Learn More</a>
+                <p>The rapid pase and fierce competition in the digital market place require a whole different level of customer focus, innovation and time to customer value.</p>
+                <a href="being-digital.html" class="btn-xs btn-primary">Learn More</a>
             </div>
-        </div>
+        </div>            
+    </div>
+    <div class="col-md-4">
         <div class="media">
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
@@ -79,33 +110,7 @@ toc: false
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
                 <a href="#" class="btn-xs btn-primary">Learn More</a>
             </div>
-        </div>
-        <div class="media">
-            <div class="pull-left">
-                <span class="fa-stack fa-2x">
-                      <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
-                      <i class="fa fa-bank fa-stack-1x fa-inverse"></i>
-                </span>
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Service Six</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-            </div>
-        </div>
-    </div>
-    <div class="col-md-4">
-        <div class="media">
-            <div class="pull-left">
-                <span class="fa-stack fa-2x">
-                      <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
-                      <i class="fa fa-paper-plane fa-stack-1x fa-inverse"></i>
-                </span>
-            </div>
-            <div class="media-body">
-                <h4 class="media-heading">Service Seven</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
-            </div>
-        </div>
+        </div>    
         <div class="media">
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
@@ -114,8 +119,9 @@ toc: false
                 </span>
             </div>
             <div class="media-body">
-                <h4 class="media-heading">Service Eight</h4>
+                <h4 class="media-heading">KNOWN ANTI-PATTERNS</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+                <a href="anti-patterns.html" class="btn-xs btn-primary">Learn More</a>                
             </div>
         </div>
         <div class="media">
