@@ -4,7 +4,7 @@ keywords:  GUARDIAN Guidance Framework Digital Transformation
 sidebar: framework_sidebar
 permalink: index.html
 toc: false
-summary: 
+summary:
 ---
 <br>
 <!-- Service List -->
@@ -42,7 +42,7 @@ summary:
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
                       <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
-                      <i class="fa fa-bank fa-stack-1x fa-inverse"></i>
+                      <i class="fa fa-tag fa-stack-1x fa-inverse"></i>
                 </span>
             </div>
             <div class="media-body">
@@ -104,7 +104,7 @@ summary:
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
                       <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
-                      <i class="fa fa-recycle fa-stack-1x fa-inverse"></i>
+                      <i class="fa fa-clock-o fa-stack-1x fa-inverse"></i>
                 </span>
             </div>
             <div class="media-body">
@@ -117,7 +117,7 @@ summary:
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
                       <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
-                      <i class="fa fa-bomb fa-stack-1x fa-inverse"></i>
+                      <i class="fa fa-space-shuttle fa-stack-1x fa-inverse"></i>
                 </span>
             </div>
             <div class="media-body">
@@ -130,7 +130,7 @@ summary:
             <div class="pull-left">
                 <span class="fa-stack fa-2x">
                       <i class="fa fa-circle fa-stack-2x text-primary" style="color:#347DBE"></i>
-                      <i class="fa fa-space-shuttle fa-stack-1x fa-inverse"></i>
+                      <i class="fa fa-bomb fa-stack-1x fa-inverse"></i>
                 </span>
             </div>
             <div class="media-body">
