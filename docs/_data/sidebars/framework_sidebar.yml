@@ -44,6 +44,10 @@ entries:
       url: /the-time-perspective.html
       output: web, pdf
 
+    - title: Transformation
+      url: /transformation.html
+      output: web, pdf
+
     - title: Known Anti-patterns
       url: /anti-patterns.html
       output: web, pdf

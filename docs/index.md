@@ -123,7 +123,7 @@ summary:
             <div class="media-body">
                 <h4 class="media-heading">TRANSFORMATION</h4>
                 <p>Without a clear target it's hard to aim. But when the target is clear it's time to “Plan Your Work & Work Your Plan”.</p>
-                <a href="#" class="btn-xs btn-primary">Learn More</a>
+                <a href="transformation.html" class="btn-xs btn-primary">Learn More</a>
             </div>
         </div>    
         <div class="media">
