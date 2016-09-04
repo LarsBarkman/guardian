@@ -49,9 +49,11 @@ summary: Welcome to **GUARDIAN** An Opinionated Inductive **GU**idance fr**A**me
                 <h4 class="media-heading">THE ACRONYM</h4>
                 <p>An
                 <a href="http://www.urbandictionary.com/define.php?term=Opinionated" title=" ">Opinionated</a>
-                <a href="https://en.wikipedia.org/wiki/Inductive_reasoning" title=" ">Inductive</a>                             
-                **GU**idance fr**A**mework fo**R**
-                <a href="https://en.wikipedia.org/wiki/Digital_transformation" title=" ">**DI**gital tr**AN**sformation</a>                 
+                <a href="https://en.wikipedia.org/wiki/Inductive_reasoning" title=" ">Inductive</a>   
+                <a href="http://www.merriam-webster.com/dictionary/guidance" title=" "><b>GU</b>idance</a>
+                <a href="http://www.merriam-webster.com/dictionary/framework" title=" ">fr<b>A</b>mework</a>
+                <br>fo<b>R</b>
+                <a href="https://en.wikipedia.org/wiki/Digital_transformation" title=" "><b>DI</b>gital tr<b>AN</b>sformation</a>                 
                 </p>
             </div>
         </div>       
