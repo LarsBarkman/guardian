@@ -69,7 +69,7 @@ summary:
             <div class="media-body">
                 <h4 class="media-heading">THE MATRIX</h4>
                 <p>To get a good view of the whole framework we recommend using The Matrix. It gives a birds eye view of all areas in an easy to grasp way.</p>
-                <a href="#" class="btn-xs btn-primary">Learn More</a>
+                <a href="the-matrix.html" class="btn-xs btn-primary">Learn More</a>
             </div>
         </div>
         <div class="media">
@@ -122,7 +122,7 @@ summary:
             </div>
             <div class="media-body">
                 <h4 class="media-heading">TRANSFORMATION</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+                <p>Without a clear target it's hard to aim. But when the target is clear it's time to “Plan Your Work & Work Your Plan”.</p>
                 <a href="#" class="btn-xs btn-primary">Learn More</a>
             </div>
         </div>    
@@ -135,7 +135,7 @@ summary:
             </div>
             <div class="media-body">
                 <h4 class="media-heading">KNOWN ANTI-PATTERNS</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo itaque ipsum sit harum.</p>
+                <p>This is obviously not the first transformation of enterprises that has taken place. History has thought us that some patterns for transformation didn't work out so good. Let's learn from history to avoid “Those who don't know history are doomed to repeat it”.</p>
                 <a href="anti-patterns.html" class="btn-xs btn-primary">Learn More</a>                
             </div>
         </div>
