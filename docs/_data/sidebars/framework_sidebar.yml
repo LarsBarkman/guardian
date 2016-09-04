@@ -120,8 +120,12 @@ entries:
       url: /microservices-architecture.html
       output: web, pdf
 
-    - title: Cloud Native
-      url: /cloud-native.html
+    - title: Being Cloud Native
+      url: /being-cloud-native.html
+      output: web, pdf
+
+    - title: Dealing With Legacy
+      url: /dealing-with-legacy.html
       output: web, pdf
 
   - title: Build

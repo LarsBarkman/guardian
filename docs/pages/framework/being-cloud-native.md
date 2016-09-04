@@ -1,8 +1,8 @@
 ---
-title: Cloud Native
+title: Being Cloud Native
 keywords: Cloud Native
 sidebar: framework_sidebar
-permalink: cloud-native.html
+permalink: being-cloud-native.html
 toc: true
 summary:
 ---
