@@ -19,9 +19,9 @@ Let’s contrast two extremes of leadership style that I have designated as the 
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
-.tg .tg-s6z2{text-align:center}
+.tg .tg-s6z2{text-align:center;min-width:150px}
 .tg .tg-hgcj{font-weight:bold;text-align:center}
-.tg .tg-5hgy{background-color:#D2E4FC;text-align:center}
+.tg .tg-5hgy{background-color:#D2E4FC;text-align:center;min-width:150px}
 </style>
 <table class="tg">
   <tr>
