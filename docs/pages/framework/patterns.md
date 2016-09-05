@@ -28,6 +28,26 @@ summary:
 
 Source: [Stability patterns applied in a RESTful architecture](http://www.javaworld.com/article/2824163/application-performance/stability-patterns-applied-in-a-restful-architecture.html)
 
+## Strangler Pattern
+> "The most important reason to consider a strangler application over a cut-over rewrite is reduced risk. A strangler can give value steadily and the frequent releases allow you to monitor its progress more carefully. Many people still don't consider a strangler since they think it will cost more - I'm not convinced about that. Since you can use shorter release cycles with a strangler you can avoid a lot of the unnecessary features that cut over rewrites often generate."
+<br> -- Martin Fowler
+
+Source: [Martin Fowler](http://www.martinfowler.com/bliki/StranglerApplication.html)
+
+## Facade Pattern
+> The facade pattern (or façade pattern) is a software design pattern commonly used with object-oriented programming. The name is by analogy to an architectural facade.
+
+> A facade is an object that provides a simplified interface to a larger body of code, such as a class library. A facade can:
+
+> * make a software library easier to use, understand and test, since the facade has convenient methods for common tasks;
+* make the library more readable, for the same reason;
+* reduce dependencies of outside code on the inner workings of a library, since most code uses the facade, thus allowing more flexibility in developing the system;
+* wrap a poorly designed collection of APIs with a single well-designed API.
+
+> The Facade design pattern is often used when a system is very complex or difficult to understand because the system has a large number of interdependent classes or its source code is unavailable. This pattern hides the complexities of the larger system and provides a simpler interface to the client. It typically involves a single wrapper class which contains a set of members required by client. These members access the system on behalf of the facade client and hide the implementation details.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Facade_pattern)
+
 ## Further Reading
 * [Stability patterns applied in a RESTful architecture](http://www.javaworld.com/article/2824163/application-performance/stability-patterns-applied-in-a-restful-architecture.html)
 * [Microservice architecture](http://microservices.io/index.html)

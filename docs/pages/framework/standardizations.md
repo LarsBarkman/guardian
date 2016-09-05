@@ -7,9 +7,15 @@ toc: true
 summary:
 ---
 
+## **N.B. This page is [Opinionated](http://www.urbandictionary.com/define.php?term=Opinionated)!**
+* There are clearly other choices that can be made
+* The choices reflect our vision of what workings
+* I you can make a strong case for making another choice, we would love that feedback via the link above
+
 ## Standardize ONLY when
 * Deemed necessary for the sake of interoperability
 * There is clearly a "better way of doing it"
+* The cost involved is to high for be handled by each team
 
 ## REVISION CONTROL AND SOURCE CODE MANAGEMENT
 ### [GitHub](https://github.com)
@@ -102,3 +108,8 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Algolia)
 > The Open Web Application Security Project (OWASP) is an online community which creates freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/OWASP)
+
+## Metrics and Alerting
+### [Prometheus](https://prometheus.io/)
+> Power your metrics and alerting with a leading
+open-source monitoring solution.
