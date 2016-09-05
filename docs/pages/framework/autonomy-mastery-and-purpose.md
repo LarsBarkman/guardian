@@ -3,7 +3,7 @@ title: Autonomy, Mastery and Purpose
 keywords: Autonomy Mastery Purpose
 sidebar: framework_sidebar
 permalink: autonomy-mastery-and-purpose.html
-toc: true
+toc: false
 summary: To motivate employees who work beyond basic tasks, give them these three factors to increase performance and satisfaction, Autonomy, Mastery and Purpose.
 ---
 
