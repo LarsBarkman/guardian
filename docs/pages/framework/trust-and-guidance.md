@@ -6,7 +6,10 @@ permalink: trust-and-guidance.html
 toc: true
 summary: Imagine a world where people wake up inspired to go to work, a world in which trust and loyalty are the rule rather than the exception.
 ---
+<br>
+> (...)in today’s fast moving, complex situations, we need to supplement conventional approaches with more of the skills of the innovative leader.
 
+> [Paul Sloane](http://www.innovationmanagement.se/author/paul-sloane/)
 
 ## Context
 > Let’s contrast two extremes of leadership style that I have designated as the command and control leader and the innovative leader.  The command and control leader is goal-oriented, authoritative and decisive. He or she is well suited to a structured regime with clear tasks. The innovative leader, on the other hand, is better suited to an ambiguous or fluid situation. He or she is much more focused on creativity, innovation and helping the team to find new ways forward.
@@ -37,11 +40,6 @@ summary: Imagine a world where people wake up inspired to go to work, a world in
 | Abhors failure	| Is comfortable with failure |
 
 Source: [Innovation management](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
-
-## Motivation behind the choice
-> (...)in today’s fast moving, complex situations, we need to supplement conventional approaches with more of the skills of the innovative leader.
-
-> [Paul Sloane](http://www.innovationmanagement.se/author/paul-sloane/)
 
 ## Further Reading
 [The Innovative Leader vs. the Command-and-Control Leader](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
