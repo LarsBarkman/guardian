@@ -44,7 +44,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
 <td class="tg-qems"><a href="open-source-first.html" title=" ">Open Source First</a></td>
 <td class="tg-tr94"><a href="time-to-customer-value.html" title=" ">Time to Customer Value</a></td>
 <td class="tg-qems"><p title="Not Applicable">N/A</p></td>
-<td class="tg-tr94"><p title="Not Applicable">N/A</p></td>
+<td class="tg-tr94"><a href="customer-value.html" title=" ">Customer Value</a></td>
 </tr>
 <tr>
 <td class="tg-2thk">STRATEGIC</td>
