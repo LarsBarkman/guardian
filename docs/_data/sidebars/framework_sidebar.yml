@@ -129,15 +129,15 @@ entries:
       output: web, pdf
 
     - title: Standardizations
-      url: standardizations.html
+      url: /standardizations.html
       output: web, pdf
 
     - title: Patterns
-      url: patterns.html
+      url: /patterns.html
       output: web, pdf
 
     - title: Principles
-      url: principles.html
+      url: /principles.html
       output: web, pdf
 
   - title: Build
