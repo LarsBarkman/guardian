@@ -96,6 +96,10 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Diversity
+      url: /diversity.html
+      output: web, pdf
+
     - title: Products Not Projects
       url: /products-not-projects.html
       output: web, pdf
