@@ -62,7 +62,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
 <td class="tg-qems"><a href="autonomy-mastery-and-purpose.html" title="To motivate employees who work beyond basic tasks, give them these three factors to increase performance and satisfaction; Autonomy, Mastery and Purpose">Autonomy, Mastery And Purpose</a></td>
 <td class="tg-tr94"><a href="business-services.html" title=" ">Business Services</a></td>
 <td class="tg-qems"><a href="bizdevops.html" title=" ">BizDevOps</a></td>
-<td class="tg-tr94"><a href="microservices-architecture.html" title=" ">Microservices Architecture</a></td>
+<td class="tg-tr94"><a href="microservices-architecture.html" title="The term "Microservice Architecture" has sprung up over the last few years to describe a particular way of designing software applications as suites of independently deployable services. While there is no precise definition of this architectural style, there are certain common characteristics around organization around business capability, automated deployment, intelligence in the endpoints, and decentralized control of languages and data.">Microservices Architecture</a></td>
 <td class="tg-qems"><a href="respect-the-bounded-context.html" title=" ">Respect The Bounded Context</a></td>
 <td class="tg-tr94"><a href="optimize-for-speed-not-efficiency.html" title=" ">Optimize For Speed, Not Efficiency</a></td>
 <td class="tg-qems"><a href="self-service-services.html" title="Self-service is over the phone, web, and email to facilitate customer interactions using automation. Self-service software and self-service apps (for example online banking apps, web portals with shops, self-service check-in at the airport) become increasingly common.">Self-service Services</a></td>
