@@ -14,6 +14,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Cooperation)
 
 ## Cooperation vs Collaboration
 > When collaborating, people work together (co-labor) on a single shared goal.
+> <br>
 > When cooperating, people perform together (co-operate) while working on selfish yet common goals.
 
 Source: [Cooperation vs Collaboration](http://cloudhead.headmine.net/post/3279118157/cooperation-vs-collaboration)
