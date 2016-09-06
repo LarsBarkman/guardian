@@ -128,3 +128,8 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/OWASP)
 ### [Prometheus](https://prometheus.io/)
 > Power your metrics and alerting with a leading
 open-source monitoring solution.
+
+## Distributed tracking
+
+### [ZipKin](http://zipkin.io/)
+> Zipkin is a distributed tracing system. It helps gather timing data needed to troubleshoot latency problems in microservice architectures. It manages both the collection and lookup of this data. Zipkin’s design is based on the Google Dapper paper.
