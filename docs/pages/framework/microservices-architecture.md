@@ -8,14 +8,12 @@ summary: The term "Microservice Architecture" has sprung up over the last few ye
 ---
 
 ## Defining Microservices Architecture
->In short, the microservice architectural style is an approach to developing a single application as a suite of small services, each running in its own process and communicating with lightweight mechanisms, often an HTTP resource API. These services are built around business capabilities and independently deployable by fully automated deployment machinery. There is a bare minimum of centralized management of these services, which may be written in different programming languages and use different data storage technologies.
-
-> -- James Lewis and Martin Fowler
+> In short, the microservice architectural style is an approach to developing a single application as a suite of small services, each running in its own process and communicating with lightweight mechanisms, often an HTTP resource API. These services are built around business capabilities and independently deployable by fully automated deployment machinery. There is a bare minimum of centralized management of these services, which may be written in different programming languages and use different data storage technologies.
 
 Source: [Microservices Resource Guide](http://martinfowler.com/microservices/#what)
 
 ### A Comprehensive Presentation of Microservice Architectures, Presented by [Neal Ford](http://nealford.com/)
-[![Building Microservice Architectures](http://img.youtube.com/vi/pjN7CaGPFB4/0.jpg)](https://www.youtube.com/watch?v=pjN7CaGPFB4)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pjN7CaGPFB4" frameborder="0" allowfullscreen></iframe>
 
 ## Motivation behind the choice
 * Microservices offer the flexibility that is needed for Continuous Improvement
