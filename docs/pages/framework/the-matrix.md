@@ -55,8 +55,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
 <td class="tg-qems"><a href="dont-build-what-can-be-used-or-bought.html" title=" ">Don’t Build, What Can Be Used Or Bought</a></td>
 <td class="tg-tr94"><a href="created-and-proven-by-doing.html" title=" ">Created And Proven By Doing</a></td>
 <td class="tg-qems"><a href="cloud-only.html" title=" ">Cloud-only</a></td>
-<td class="tg-tr94"><a href="continuous-improvement.html" title="Continuous improvement is not just a fancy word.
-It is a natural process which aims to improve our current situation. We don’t want to work harder if we can achieve the same or better result by working smarter. In other words, we want to eliminate all work that isn’t absolutely necessary">Continuous Improvement</a></td>
+<td class="tg-tr94"><a href="work-smarter-not-harder.html" title=" ">Work Smarter, Not Harder</a></td>
 </tr>
 <tr>
 <td class="tg-2thk">OPERATIONAL</td>
@@ -75,7 +74,7 @@ It is a natural process which aims to improve our current situation. We don’t 
 <td class="tg-tr94"><a href="domain-model.html" title=" ">Domain Model</a></td>
 <td class="tg-qems"><a href="self-organization.html" title=" ">Self-organization</a></td>
 <td class="tg-tr94"><a href="being-cloud-native.html" title=" ">Being Cloud Native</a> And <a href="dealing-with-legacy.html" title=" ">Dealing With Legacy</a></td>
-<td class="tg-qems"><a href="technical-excellence.html" title=" ">Technical Excellence</a></td>
+<td class="tg-qems"><a href="technological-mastery.html" title=" ">Technological Mastery</a></td>
 <td class="tg-tr94"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
 <td class="tg-qems"><a href="you-build-it-you-run-it.html" title=" ">“You Build It,<br>You Run It.”</a></td>
 <td class="tg-tr94"><a href="metrics-driven-development.html" title="Metrics-Driven Development (MDD) The use of real-time metrics to drive rapid, precise, and granular software iterations. MDD is an emerging term developing from the practices of continuous integration, continuous delivery, dev ops, and agile software methodologies">Metrics-Driven Development</a></td>

@@ -160,8 +160,8 @@ entries:
       url: /respect-the-bounded-context.html
       output: web, pdf
 
-    - title: Technical Excellence
-      url: /technical-excellence.html
+    - title: Technological Mastery
+      url: /technological-mastery.html
       output: web, pdf
 
   - title: Ship
@@ -208,8 +208,8 @@ entries:
       url: /customer-value.html
       output: web, pdf
 
-    - title: Continuous Improvement
-      url: /continuous-improvement.html
+    - title: Work Smarter, Not Harder
+      url: /work-smarter-not-harder.html
       output: web, pdf
 
     - title: Observe, Orient, Decide and Act
