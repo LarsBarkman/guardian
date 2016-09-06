@@ -3,6 +3,7 @@ title: Empathy
 keywords: Empathy
 sidebar: framework_sidebar
 permalink: empathy.html
+toc: false
 summary:
 ---
 
@@ -11,6 +12,7 @@ summary:
 
 Source: [MERRIAM-WEBSTER](http://www.merriam-webster.com/dictionary/empathy)
 
+## Brené Brown on Empathy 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Evwgu369Jw" frameborder="0" allowfullscreen></iframe>
 
 ## Further Reading

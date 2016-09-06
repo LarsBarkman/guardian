@@ -8,7 +8,7 @@ summary: To motivate employees who work beyond basic tasks, give them these thre
 ---
 
 ## Dan Pink: The puzzle of motivation
-[![Dan Pink: The puzzle of motivation](http://img.youtube.com/vi/rrkrvAUbU9Y/0.jpg)](https://youtu.be/rrkrvAUbU9Y)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rrkrvAUbU9Y" frameborder="0" allowfullscreen></iframe>
 
 ## Summary
 Based on studies done at MIT and other universities, higher pay and bonuses resulted in better performance ONLY if the task consisted of basic, mechanical skills. It worked for problems with a defined set of steps and a single answer. If the task involved cognitive skills, decision-making, creativity, or higher-order thinking, higher pay resulted in lower performance. As a supervisor, you should pay employees enough that they are not focused on meeting basic needs and feel that they are being paid fairly. If you don’t pay people enough, they won’t be motivated. Pink suggests that you should pay enough “to take the issue of money off the table.”
