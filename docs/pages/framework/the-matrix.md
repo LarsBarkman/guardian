@@ -39,7 +39,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
 <td class="tg-2thk">POLITICAL</td>
 <td class="tg-qems"><a href="collaboration.html" title=" ">Collaboration</a></td>
 <td class="tg-tr94"><a href="customer-value-chain.html" title=" ">Customer Value-chain</a></td>
-<td class="tg-qems"><p title="Not Applicable">N/A</p></td>
+<td class="tg-qems"><a href="diversity.html" title=" ">Diversity</a></td> 
 <td class="tg-tr94"><p title="Not Applicable">N/A</p></td>
 <td class="tg-qems"><a href="open-source-first.html" title=" ">Open Source First</a></td>
 <td class="tg-tr94"><a href="time-to-customer-value.html" title=" ">Time to Customer Value</a></td>
