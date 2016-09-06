@@ -7,7 +7,7 @@ toc: false
 summary:
 ---
 
-## Context
+## Defining Collaboration
 > Collaboration is the process of two or more people or organizations working together to realize mutual goals. Collaboration is very similar to, but more closely aligned than, cooperation, and both are an opposite of competition. Most collaboration requires leadership, although the form of leadership can be social within a decentralized and egalitarian group. Teams that work collaboratively can obtain greater resources, recognition and reward when facing competition for finite resources.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Collaboration)
