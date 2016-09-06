@@ -56,8 +56,8 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Cooperation
-      url: /cooperation.html
+    - title: Collaboration
+      url: /collaboration.html
       output: web, pdf
 
     - title: From Command & Control To Trust And Guidance

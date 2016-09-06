@@ -1,16 +1,16 @@
 ---
-title: Cooperation
-keywords: Cooperation
+title: Collaboration
+keywords: Collaboration
 sidebar: framework_sidebar
-permalink: cooperation.html
+permalink: collaboration.html
 toc: false
 summary:
 ---
 
 ## Context
-> Cooperation (sometimes written as cooperation or co-operation) is the process of groups of organisms working or acting together for common or mutual benefit, as opposed to working in competition for selfish benefit.
+> Collaboration is the process of two or more people or organizations working together to realize mutual goals. Collaboration is very similar to, but more closely aligned than, cooperation, and both are an opposite of competition. Most collaboration requires leadership, although the form of leadership can be social within a decentralized and egalitarian group. Teams that work collaboratively can obtain greater resources, recognition and reward when facing competition for finite resources.
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Cooperation)
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Collaboration)
 
 ## Cooperation vs Collaboration
 > When collaborating, people work together (co-labor) on a single shared goal.

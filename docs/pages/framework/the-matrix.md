@@ -37,7 +37,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
 </tr>
 <tr>
 <td class="tg-2thk">POLITICAL</td>
-<td class="tg-qems"><a href="cooperation.html" title=" ">Cooperation</a></td>
+<td class="tg-qems"><a href="collaboration.html" title=" ">Collaboration</a></td>
 <td class="tg-tr94"><a href="customer-value-chain.html" title=" ">Customer Value-chain</a></td>
 <td class="tg-qems"><p title="Not Applicable">N/A</p></td>
 <td class="tg-tr94"><p title="Not Applicable">N/A</p></td>
