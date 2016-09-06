@@ -39,7 +39,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
 <td class="tg-2thk">POLITICAL</td>
 <td class="tg-qems"><a href="collaboration.html" title=" ">Collaboration</a></td>
 <td class="tg-tr94"><a href="customer-value-chain.html" title=" ">Customer Value-chain</a></td>
-<td class="tg-qems"><a href="diversity.html" title=" ">Diversity</a></td> 
+<td class="tg-qems"><a href="diversity.html" title=" ">Diversity</a></td>
 <td class="tg-tr94"><p title="Not Applicable">N/A</p></td>
 <td class="tg-qems"><a href="open-source-first.html" title=" ">Open Source First</a></td>
 <td class="tg-tr94"><a href="time-to-customer-value.html" title=" ">Time to Customer Value</a></td>
@@ -74,7 +74,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
 <td class="tg-tr94"><a href="domain-model.html" title=" ">Domain Model</a></td>
 <td class="tg-qems"><a href="self-organization.html" title=" ">Self-organization</a></td>
 <td class="tg-tr94"><a href="being-cloud-native.html" title=" ">Being Cloud Native</a> And <a href="dealing-with-legacy.html" title=" ">Dealing With Legacy</a></td>
-<td class="tg-qems"><a href="technological-mastery.html" title=" ">Technological Mastery</a></td>
+<td class="tg-qems"><a href="technological-mastery.html" title="The acquisition of technological mastery—that is, of the ability to make effective use of technological knowledge—is critical to the achievement of self-sustaining development.">Technological Mastery</a></td>
 <td class="tg-tr94"><a href="continuous-deployment.html" title=" ">Continuous Deployment</a></td>
 <td class="tg-qems"><a href="you-build-it-you-run-it.html" title=" ">“You Build It,<br>You Run It.”</a></td>
 <td class="tg-tr94"><a href="metrics-driven-development.html" title="Metrics-Driven Development (MDD) The use of real-time metrics to drive rapid, precise, and granular software iterations. MDD is an emerging term developing from the practices of continuous integration, continuous delivery, dev ops, and agile software methodologies">Metrics-Driven Development</a></td>
