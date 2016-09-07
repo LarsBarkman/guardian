@@ -1,5 +1,5 @@
 ---
-title: Template
+title: TEMPLATE
 keywords:
 sidebar: framework_sidebar
 permalink: template.html
