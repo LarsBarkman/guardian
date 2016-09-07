@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Table of Contents
+  product: GUARDIAN Framework
   version:
   folders:
 
@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: GUARDIAN Framework
+  - title: Overview
     output: web, pdf
     folderitems:
 
