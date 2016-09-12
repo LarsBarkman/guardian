@@ -12,6 +12,11 @@ summary: Imagine a world where people wake up inspired to go to work, a world in
 
 Source: [Innovation management](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
 
+# Radical Candor — The Surprising Secret to Being a Good Boss
+> The single most important thing a boss can do, Scott has learned, is focus on guidance: giving it, receiving it, and encouraging it. Guidance, which is fundamentally just praise and criticism, is usually called “feedback,” but feedback is screechy and makes us want to put our hands over our ears. Guidance is something most of us long for.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MIh_992Nfes" frameborder="0" allowfullscreen></iframe>
+
 # The Command And Control Leader Vs. The Innovative Leader
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
@@ -118,10 +123,6 @@ Source: [Innovation management](http://www.innovationmanagement.se/imtool-articl
 
 Source: [Innovation management](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
 
-# Radical Candor — The Surprising Secret to Being a Good Boss
-> The single most important thing a boss can do, Scott has learned, is focus on guidance: giving it, receiving it, and encouraging it. Guidance, which is fundamentally just praise and criticism, is usually called “feedback,” but feedback is screechy and makes us want to put our hands over our ears. Guidance is something most of us long for.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MIh_992Nfes" frameborder="0" allowfullscreen></iframe>
 
 # Further Reading
 * [The Innovative Leader vs. the Command-and-Control Leader](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
