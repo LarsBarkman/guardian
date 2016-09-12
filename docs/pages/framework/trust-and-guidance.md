@@ -123,6 +123,6 @@ Source: [Innovation management](http://www.innovationmanagement.se/imtool-articl
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MIh_992Nfes" frameborder="0" allowfullscreen></iframe>
 
-## Further Reading
+# Further Reading
 * [The Innovative Leader vs. the Command-and-Control Leader](http://www.innovationmanagement.se/imtool-articles/the-innovative-leader-vs-the-command-and-control-leader/)
 * [Radical Candor — The Surprising Secret to Being a Good Boss](http://firstround.com/review/radical-candor-the-surprising-secret-to-being-a-good-boss/)
