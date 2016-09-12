@@ -1,8 +1,8 @@
 ---
-title: ONE PAAS
+title: ONE CONTAINER PLATFORM
 keywords: PaaS
 sidebar: framework_sidebar
-permalink: one-paas.html
+permalink: one-container-platform.html
 toc: true
 summary:
 ---
