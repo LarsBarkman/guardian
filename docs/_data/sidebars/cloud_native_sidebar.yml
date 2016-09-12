@@ -3,7 +3,7 @@
 
 entries:
 - title: Sidebar
-  product: THE METHODOLOGY
+  product: BEING CLOUD NATIVE
   version:
   folders:
 
@@ -24,12 +24,5 @@ entries:
     output: web, pdf
     folderitems:
     - title: Introduction
-      url: /methodology_landing_page.html
+      url: /cloud-native-landing-page.html
       output: web
-
-  - title: Creating Business Services
-    output: web, pdf
-    folderitems:
-    - title: Sample 1
-      url: /methodology_sample1.html
-      output: web, pdf
