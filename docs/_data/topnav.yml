@@ -7,10 +7,15 @@ topnav_dropdowns:
   folders:
     - title: Content
       folderitems:
-        - title: The Framework
+        - title: THE FRAMEWORK
           url: /index.html
-        - title: The Methodology
+        - title: THE METHODOLOGY
           url: /methodology_landing_page.html
+        - title: BEING CLOUD NATIVE
+          url: /cloud-native-landing-page.html
+        - title: DEALING WITH LEGACY
+          url: /legacy-landing-page.html
+
     - title: Resources
       folderitems:
         - title: Github

@@ -89,7 +89,9 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
   </tr>
 </table>
 
-# *Recommended Target Architecture
-This target architecture is highly recommended but in some cases it won't be a good fit. In those cases just replace the whole "target architecture" section.
-
+## *Recommended Target Architecture
 For lager/more complex organisations it's likly that one architecture will not be enough and there should be 2-3 different architectures that can be used in different cases.
+
+In those cases just name the different target achitectures and assign them to each business service.
+
+All other columns and rows should remain the same.
