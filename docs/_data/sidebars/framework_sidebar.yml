@@ -192,6 +192,10 @@ entries:
       url: /cloud-only.html
       output: web, pdf
 
+    - title: One PaaS
+      url: /one-paas.html
+      output: web, pdf
+
     - title: Self-service Services
       url: /self-service-services.html
       output: web, pdf
