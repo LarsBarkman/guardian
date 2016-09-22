@@ -1,16 +1,16 @@
 ---
-title: Dealing With Legacy
+title: DEALING WITH LEGACY
 keywords: Legacy
 sidebar: framework_sidebar
 permalink: dealing-with-legacy.html
 toc: true
-summary:
+summary: In computing, a legacy system is an old method, technology, computer system, or application program, “of, relating to, or being a previous or outdated computer system.” Often a pejorative term, referencing a system as “legacy” often implies that the system is out of date or in need of replacement.
 ---
 
 <br>
 
 > "Let's face it, all we are doing is writing tomorrow's legacy software today. By making it easy to be strangled in the future, you are enabling the graceful fading away of today's work."
-<br><br> -- Martin Fowler
+<br> -- Martin Fowler
 
 ## Important Pages Relating To This One
 * [Standardizations](standardizations.html)
@@ -18,15 +18,14 @@ summary:
 * [Principles](principles.html)
 
 ## What Is a Legacy System?
-> In computing, a legacy system is an old method, technology, computer system, or application program, "of, relating to, or being a previous or outdated computer system." Often a pejorative term, referencing a system as "legacy" often implies that the system is out of date or in need of replacement.
+In computing, a legacy system is an old method, technology, computer system, or application program, "of, relating to, or being a previous or outdated computer system." Often a pejorative term, referencing a system as "legacy" often implies that the system is out of date or in need of replacement.
 
-> While this term may indicate that some engineers may feel that a system is out of date, a legacy system may continue to be used for a variety of reasons. It may simply be that the system still provides for the users' needs. In addition, the decision to keep an old system may be influenced by economic reasons such as return on investment challenges or vendor lock-in, the inherent challenges of change management, or a variety of other reasons other than functionality. Backward compatibility (such as the ability of newer systems to handle legacy file formats and character encodings) is a goal that software developers often include in their work.
+While this term may indicate that some engineers may feel that a system is out of date, a legacy system may continue to be used for a variety of reasons. It may simply be that the system still provides for the users' needs. In addition, the decision to keep an old system may be influenced by economic reasons such as return on investment challenges or vendor lock-in, the inherent challenges of change management, or a variety of other reasons other than functionality. Backward compatibility (such as the ability of newer systems to handle legacy file formats and character encodings) is a goal that software developers often include in their work.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Legacy_system)
 
 ## Which Systems Are Legacy Systems?
-* Which systems that are is legacy or not is subjective and it's impossible to give an exakt difinition
-* One general guidence is "The effort and/or cost to transform the system to [Cloud Native](being-cloud-native.html) is to great to be worth it or transformation is just not possible"
+![Cloud Native or Legacy](images/cloud-native-or-legacy.svg)
 
 ## The Law of Holes
 > The first law of holes, or the law of holes, is an adage which states that "if you find yourself in a hole, stop digging". The meaning behind it is that if you find yourself in an untenable position, you should stop and change what you are doing, rather than carrying on and exacerbating the situation.

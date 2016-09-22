@@ -1,13 +1,13 @@
 ---
-title: COLLECT AND USE METRICS AND TELEMETRY
+title: OPTIMIZE FOR SPEED
 keywords:
 sidebar: framework_sidebar
-permalink: collect-and-use-metrics-and-telemetry.html
+permalink: optimize-for-speed.html
 toc: true
 summary:
 ---
 
-## Defining Collect and Use Metrics and Telemetry
+## Defining Optimize for Speed
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ## Justification Of The Choices Made
@@ -17,4 +17,5 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ## Further Reading
-* [Lorem ipsum dolor sit amet, consectetur adipisicing elit.]()
+* [5 KEY DEPLOYMENT PIPELINE PATTERNS](https://www.go.cd/2015/08/28/pipeline-patterns/)
+* [Building a Software Deployment Pipeline](http://lethain.com/building-a-software-deployment-pipeline/)

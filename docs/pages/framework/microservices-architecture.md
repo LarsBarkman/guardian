@@ -1,5 +1,5 @@
 ---
-title: Microservices Architecture
+title: MICROSERVICES ARCHITECTURE
 keywords: Microservices Architecture
 sidebar: framework_sidebar
 permalink: microservices-architecture.html
@@ -12,13 +12,13 @@ summary: The term "Microservice Architecture" has sprung up over the last few ye
 
 Source: [Microservices Resource Guide](http://martinfowler.com/microservices/#what)
 
-### A Comprehensive Presentation of Microservice Architectures, Presented by [Neal Ford](http://nealford.com/)
+## A Comprehensive Presentation of Microservice Architectures, Presented by [Neal Ford](http://nealford.com/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pjN7CaGPFB4" frameborder="0" allowfullscreen></iframe>
 
-## Motivation behind the choice
+## Justification Of The Choices Made
 * Microservices offer the flexibility that is needed for Continuous Improvement
 
-## Alternatives that could have been chosen, but was not
+## The Other Alternatives That Were Not Chosen
 * Service-based Architecture instead of Microservices
 * Monoliths
 

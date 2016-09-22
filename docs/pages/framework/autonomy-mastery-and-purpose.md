@@ -1,5 +1,5 @@
 ---
-title: Autonomy, Mastery and Purpose
+title: AUTONOMY, MASTERY AND PURPOSE
 keywords: Autonomy Mastery Purpose
 sidebar: framework_sidebar
 permalink: autonomy-mastery-and-purpose.html
@@ -18,5 +18,11 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_Ab
 ## Dan Pink: The puzzle of motivation
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rrkrvAUbU9Y" frameborder="0" allowfullscreen></iframe>
 
+## Justification Of The Choices Made
+We want motivated employees!
+
+## The Other Alternatives That Were Not Chosen
+* Command and Control
+
 ## Further Reading
-[Drive: The Surprising Truth About What Motivates Us](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us)
+* [Drive: The Surprising Truth About What Motivates Us](https://en.wikipedia.org/wiki/Drive:_The_Surprising_Truth_About_What_Motivates_Us)

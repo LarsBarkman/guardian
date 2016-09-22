@@ -11,17 +11,13 @@ topnav_dropdowns:
           url: /index.html
         - title: THE METHODOLOGY
           url: /methodology_landing_page.html
-        - title: BEING CLOUD NATIVE
-          url: /cloud-native-landing-page.html
-        - title: DEALING WITH LEGACY
-          url: /legacy-landing-page.html
 
     - title: Resources
       folderitems:
         - title: Github
-          external_url: https://github.com/LarsBarkman
+          external_url: https://github.com/LarsBarkman/guardian
         - title: Blog
-          external_url: http://larsbarkman.com
+          external_url: https://github.com/LarsBarkman/guardian/news
 
 topnav:
 - title: Topnav

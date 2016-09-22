@@ -8,7 +8,7 @@ topnav_title: GUARDIAN (Pre-alpha)
 site_title: GUARDIAN - An Opinionated Inductive Guidance Framework for Digital Transformation
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: BRE Enterprises
+company_name: PoC
 # this appears in the footer
 
 github_editme_path:
@@ -28,9 +28,9 @@ exclude:
   - .gitignore
 # these are the files and directories that jekyll will exclude from the build
 
-feedback_subject_line: GUARDIAN - Feedback
+feedback_subject_line: GUARDIAN -
 
-feedback_email: lars.barkman@gmail.com
+feedback_email: Lars.Barkman@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -94,11 +94,9 @@ sidebars:
 - home_sidebar
 - framework_sidebar
 - methodology_sidebar
-- cloud_native_sidebar
-- legacy_sidebar
 
 description: "GUARDIAN - An Opinionated Inductive Guidance Framework for Digital Transformation"
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: http://larsbarkman.com
+url: http://larsbarkman.github.io/guardian

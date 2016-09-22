@@ -24,8 +24,8 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
 .tg .tg-cw1h{background-color:#f7fdfa;vertical-align:middle;text-align:center;min-width:120px}
 .tg .tg-y0xi{background-color:#c0c0c0;color:#ffffff;vertical-align:middle;text-align:center;min-width:120px}
 .tg .tg-kj29{background-color:#bdcde2;text-align:center}
-.tg .tg-d36c{background-color:#a8b6c9;text-align:center}
-.tg .tg-emls{background-color:#939fb0;text-align:center}
+.tg .tg-d36c{background-color:#939fb0;text-align:center}
+.tg .tg-emls{background-color:#69727e;text-align:center}
 </style>
 <table class="tg">
   <tr>
@@ -50,7 +50,7 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-v6kb">POLITICAL</td>
     <td class="tg-v1zw"><a href="collaboration.html" title=" ">Collaboration</a></td>
     <td class="tg-q8lq"><a href="customer-value-chain.html" title=" ">Customer Value-chain</a></td>
-    <td class="tg-cw1h"><a href="diversity.html" title="Diversity is about to seize opportunities and overcome obstacles, take advantage of different skills, experiences and talents, equal rights, obligations and opportunities for all, regardless of background.">Diversity</a></td>
+    <td class="tg-cw1h"><a href="diversity.html" title=" ">Diversity</a></td>
     <td class="tg-q8lq"><a href="evolutionary-architecture.html" title=" ">Evolutionary Architecture</a></td>
     <td class="tg-cw1h"><a href="open-source-first.html" title=" ">Open Source First</a></td>
     <td class="tg-q8lq"><a href="created-and-proven-by-doing.html" title=" ">Created and Proven By Doing</a></td>
@@ -81,24 +81,24 @@ Read about the four [Levels](the-time-perspective.html) in The Framework.
     <td class="tg-q8lq"><a href="metrics-driven.html" title="Peter Drucker, legendary management consultant, once said: What's measured, improves.">Metrics-Driven</a></td>
   </tr>
   <tr>
-    <td class="tg-fwqm">TACTICAL</td>
+    <td class="tg-fwqm"rowspan="4">TACTICAL</td>
     <td class="tg-cw1h"><a href="passion.html" title=" ">Passion</a></td>
     <td class="tg-q8lq"><a href="domain-model.html" title="At its worst business logic can be very complex. Rules and logic describe many different cases and slants of behavior, and it's this complexity that objects were designed to work with. A Domain Model creates a web of interconnected objects, where each object represents some meaningful individual, whether as large as a corporation or as small as a single line on an order form.">Domain Model</a></td>
     <td class="tg-cw1h"><a href="self-organization.html" title=" ">Self-organization</a></td>
     <td class="tg-q8lq"><a href="greenfield-legacy.html" title=" ">Greenfield<br>and Legacy</a></td>
     <td class="tg-cw1h"><a href="pursue-mastery.html" title="Mastery can only be attained through the development of a comprehensive knowledge or skill. It is the highest order of accomplishment in our craft. Mastery does not require you to be perfect, but it does require you to pursue perfection.">Pursue Mastery</a></td>
     <td class="tg-q8lq"><a href="deployment-release.html" title="Just because the code is deployed to production that does not necessarily mean that a new function is released.">Deployment != Release</a></td>
-    <td class="tg-cw1h"><a href="one-platform.html" title=" ">One<br>Platform</a></td>
+    <td class="tg-cw1h"><a href="micro-paas.html" title=" ">Micro-PaaS</a></td>
     <td class="tg-q8lq"><a href="time-to-customer-value.html" title=" ">Time to Customer Value</a></td>
   </tr>
   <tr>
-    <td class="tg-kj29" colspan="9"><a href=" " title=" ">Principles</a></td>
+    <td class="tg-kj29" colspan="8"><a href=" " title=" ">Principles</a></td>
   </tr>
   <tr>
-    <td class="tg-d36c" colspan="9"><a href=" " title=" ">Patterns</a></td>
+    <td class="tg-d36c" colspan="8"><a href=" " title=" ">Patterns</a></td>
   </tr>
   <tr>
-    <td class="tg-emls" colspan="9"><a href=" " title=" ">Standardizations</a></td>
+    <td class="tg-emls" colspan="8"><a href=" " title=" ">Standardizations</a></td>
   </tr>
 </table>
 

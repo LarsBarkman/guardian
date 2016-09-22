@@ -1,13 +1,14 @@
 ---
-title: COLLECT AND USE METRICS AND TELEMETRY
-keywords:
+title: PASSION
+keywords: Passion
 sidebar: framework_sidebar
-permalink: collect-and-use-metrics-and-telemetry.html
+permalink: Passion.html
 toc: true
 summary:
 ---
 
-## Defining Collect and Use Metrics and Telemetry
+
+## Defining Passion
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ## Justification Of The Choices Made

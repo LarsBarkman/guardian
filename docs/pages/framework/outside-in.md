@@ -1,13 +1,13 @@
 ---
-title: COLLECT AND USE METRICS AND TELEMETRY
-keywords:
+title: OUTSIDE IN
+keywords: Outside In
 sidebar: framework_sidebar
-permalink: collect-and-use-metrics-and-telemetry.html
+permalink: outside-in.html
 toc: true
 summary:
 ---
 
-## Defining Collect and Use Metrics and Telemetry
+## Defining Outside In
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ## Justification Of The Choices Made
@@ -17,4 +17,4 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 
 ## Further Reading
-* [Lorem ipsum dolor sit amet, consectetur adipisicing elit.]()
+* [Building the digital enterprise for the age of the customer handouts](http://www.slideshare.net/AE_nv/building-the-digital-enterprise-for-the-age-of-the-customer-handouts)
